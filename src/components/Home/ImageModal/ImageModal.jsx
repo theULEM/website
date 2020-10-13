@@ -1,8 +1,8 @@
-import React from "react"
+import React from "react";
 
-import styles from "./ImageModal.module.css"
+import styles from "./ImageModal.module.css";
 
-import modalImg from "../../../assets/image/1619.png"
+import modalImg from "../../../assets/image/FridayThe1619Project.png";
 
 const ImageModal = ({ id, title }) => {
   return (
@@ -42,7 +42,7 @@ const ImageModal = ({ id, title }) => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default ImageModal
+export default ImageModal;
