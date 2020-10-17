@@ -17,7 +17,7 @@ export default class Instagram extends Component {
           </h3>
         </Link>
         <iframe
-          src="https://cdn.lightwidget.com/widgets/b5fa1f3fa9ca5bfbb0000608b4fa4962.html"
+          src="//lightwidget.com/widgets/08d33eb8e3c9513d8c155d472a517b13.html"
           scrolling="no"
           allowtransparency="true"
           className="lightwidget-widget "

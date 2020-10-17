@@ -2,8 +2,8 @@ import React from "react";
 
 import styles from "./ImageModal.module.css";
 
-// import modalImg from "../../../assets/image/FridayThe1619Project.png";
-import modalImg from "../../../download/PopUpconta-cc-2FuoQqH.pdf";
+import modalImg from "../../../assets/image/FridayThe1619Project.png";
+// import modalImg from "../../../download/OctNewsletter.pdf";
 
 const ImageModal = ({ id, title }) => {
   return (
@@ -33,8 +33,8 @@ const ImageModal = ({ id, title }) => {
           </div>
           <div>
             <a
-              // href="https://bit.ly/ULEM1619"
-              href="https://myemail.constantcontact.com/ULEM-October-Update.html?soid=1102455592959&aid=mEevnvr5xt4"
+              href="https://bit.ly/ULEM1619"
+              // href="https://myemail.constantcontact.com/ULEM-October-Update.html?soid=1102455592959&aid=mEevnvr5xt4"
               target="_blank"
               rel="noopener noreferrer"
             >
