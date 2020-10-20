@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import msimbo from "../../img/MSIMBOFlyer.png";
 import digiul from "../../img/DigiUL.png";
 import ulemBuilding from "../../img/ulemBuilding.JPG";
-import marathonBanner from "../../img/ULEM-MarathonBanner20202_A.jpg";
+// import marathonBanner from "../../img/ULEM-MarathonBanner20202_A.jpg";
 import banner100 from "../../img/Banner100.png";
 import jobBanner from "../../img/jobBanner.png";
 // import breakfast from "../../assets/image/breakfast-banner-1.png";
@@ -59,7 +59,7 @@ export default class TopSlides extends Component {
           {/* <TopSlide img={logoBanner} to="/sponsor" x="center" y="center" /> */}
           <TopSlide img={digiul} to="/program" x="center" y="top" />
           <TopSlide img={msimbo} to="/program" x="center" y="top" />
-          <TopSlide img={marathonBanner} to="/marathon" x="center" y="center" />
+          {/* <TopSlide img={marathonBanner} to="/marathon" x="center" y="center" /> */}
           <TopSlide
             img={jobBanner}
             href="https://www.jobcase.com/ulem"
