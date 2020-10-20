@@ -95,6 +95,48 @@ export default class EventSlides extends Component {
                   </Link>
                 </div>
               )}
+              {/* {events[3] && (
+                <div className="carousel-item ">
+                  <Link
+                    to={{
+                      pathname: "/events",
+                      state: { date: events[3].start },
+                    }}
+                  >
+                    <div
+                      style={{
+                        background: `url(data:${
+                          events[3].img.mimeType
+                        };base64,${new Buffer(events[3].img.data).toString(
+                          "base64"
+                        )}) no-repeat top center/cover`,
+                        height: "600px",
+                      }}
+                    />
+                  </Link>
+                </div>
+              )}
+              {events[4] && (
+                <div className="carousel-item ">
+                  <Link
+                    to={{
+                      pathname: "/events",
+                      state: { date: events[4].start },
+                    }}
+                  >
+                    <div
+                      style={{
+                        background: `url(data:${
+                          events[4].img.mimeType
+                        };base64,${new Buffer(events[4].img.data).toString(
+                          "base64"
+                        )}) no-repeat top center/cover`,
+                        height: "600px",
+                      }}
+                    />
+                  </Link>
+                </div>
+              )} */}
             </div>
             <a
               className="carousel-control-prev"

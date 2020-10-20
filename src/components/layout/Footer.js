@@ -165,7 +165,7 @@ export default class Footer extends Component {
                 </div>
                 <div className="col-lg-6 text-center mb-5">
                   <a
-                    href="https://www.instagram.com/theulem/"
+                    href="https://www.instagram.com/theulem2/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
