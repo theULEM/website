@@ -1,12 +1,13 @@
 import React, { Component, Fragment } from "react";
+import { Link } from "react-router-dom";
 
 export default class Instagram extends Component {
   render() {
     return (
       <Fragment>
-        <a
+        <Link
           className="link"
-          href="https://www.instagram.com/theulem/"
+          to="https://www.instagram.com/theulem2/"
           rel="noopener noreferrer"
           target="_blank"
         >
@@ -14,9 +15,9 @@ export default class Instagram extends Component {
             ULEM Instagram
             <i className="fab fa-instagram fa-lg float-right" />
           </h3>
-        </a>
+        </Link>
         <iframe
-          src="https://cdn.lightwidget.com/widgets/b5fa1f3fa9ca5bfbb0000608b4fa4962.html"
+          src="https://cdn.lightwidget.com/widgets/08d33eb8e3c9513d8c155d472a517b13.html"
           scrolling="no"
           allowtransparency="true"
           className="lightwidget-widget "

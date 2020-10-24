@@ -32,7 +32,7 @@ import Admin from "./components/auth/Admin";
 import Marathon from "./components/marathon/Marathon";
 import Membership from "./components/membership/Membership";
 // import CentennialMembership from "./components/centennial/CentennialMembership";
-import Leadership from "./components/about/Leadership";
+// import Leadership from "./components/about/Leadership";
 import Board from "./pages/Board/Board";
 import HowToDonate from "./components/support/HowToDonate";
 import CentennialIntro from "./components/centennial/CentennialIntro";
@@ -49,7 +49,7 @@ class App extends Component {
             <Navbar />
             <Switch>
               <Route exact path="/about" component={About} />
-              <Route exact path="/leadership" component={Leadership} />
+              {/* <Route exact path="/leadership" component={Leadership} /> */}
               <Route exact path="/board" component={Board} />
               <Route exact path="/staff" component={Staff} />
               <Route exact path="/program" component={Program} />

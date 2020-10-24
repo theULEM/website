@@ -196,7 +196,7 @@ export default class Navbar extends Component {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  Opportunities
+                  Jobs & Opportunities
                 </span>
                 <div className="dropdown-menu" onClick={this.collapse}>
                   <a
