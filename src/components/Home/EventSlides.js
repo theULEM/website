@@ -43,7 +43,7 @@ export default class EventSlides extends Component {
                     <div
                       style={{
                         background: `url(data:${
-                          events[0].img.mimeType
+                          events[0].img?.mimeType
                         };base64,${new Buffer(events[0].img.data).toString(
                           "base64"
                         )}) no-repeat top center/cover`,
@@ -64,7 +64,7 @@ export default class EventSlides extends Component {
                     <div
                       style={{
                         background: `url(data:${
-                          events[1].img.mimeType
+                          events[1].img?.mimeType
                         };base64,${new Buffer(events[1].img.data).toString(
                           "base64"
                         )}) no-repeat top center/cover`,
@@ -85,7 +85,7 @@ export default class EventSlides extends Component {
                     <div
                       style={{
                         background: `url(data:${
-                          events[2].img.mimeType
+                          events[2].img?.mimeType
                         };base64,${new Buffer(events[2].img.data).toString(
                           "base64"
                         )}) no-repeat top center/cover`,
@@ -106,7 +106,7 @@ export default class EventSlides extends Component {
                     <div
                       style={{
                         background: `url(data:${
-                          events[3].img.mimeType
+                          events[3].img?.mimeType
                         };base64,${new Buffer(events[3].img.data).toString(
                           "base64"
                         )}) no-repeat top center/cover`,
@@ -127,7 +127,7 @@ export default class EventSlides extends Component {
                     <div
                       style={{
                         background: `url(data:${
-                          events[4].img.mimeType
+                          events[4].img?.mimeType
                         };base64,${new Buffer(events[4].img.data).toString(
                           "base64"
                         )}) no-repeat top center/cover`,
@@ -148,7 +148,7 @@ export default class EventSlides extends Component {
                     <div
                       style={{
                         background: `url(data:${
-                          events[3].img.mimeType
+                          events[3].img?.mimeType
                         };base64,${new Buffer(events[3].img.data).toString(
                           "base64"
                         )}) no-repeat top center/cover`,
@@ -169,7 +169,7 @@ export default class EventSlides extends Component {
                     <div
                       style={{
                         background: `url(data:${
-                          events[4].img.mimeType
+                          events[4].img?.mimeType
                         };base64,${new Buffer(events[4].img.data).toString(
                           "base64"
                         )}) no-repeat top center/cover`,

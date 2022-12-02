@@ -81,7 +81,7 @@ export default class EventCard extends Component {
               >
                 <img
                   className="card-img-bottom"
-                  src={`data:${this.state.event.img.mimeType};base64,${new Buffer(
+                  src={`data:${this.state.event.img?.mimeType};base64,${new Buffer(
                     this.state.event.img.data
                   ).toString("base64")}`}
                   alt="event"
