@@ -1,0 +1,60 @@
+{
+  "name": "ulem",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.5.0",
+    "bootstrap-select": "^1.13.18",
+    "cookie-parser": "^1.4.5",
+    "cookie-session": "^2.0.0-rc.1",
+    "instafeed.js": "^1.4.1",
+    "jquery": "^3.5.1",
+    "jquery-datepicker": "^1.12.3",
+    "jquery-ui": "^1.12.1",
+    "mailgun-js": "^0.22.0",
+    "moment": "2.24.0",
+    "mongoose": "^5.9.25",
+    "multer": "^1.4.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "popper.js": "^1.16.1",
+    "react": "^16.13.1",
+    "react-calendar": "^2.19.2",
+    "react-dom": "^16.13.1",
+    "react-pdf": "^5.1.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^4.3.1",
+    "react-router-hash-link": "^1.2.2",
+    "react-scripts": "^3.4.1",
+    "react-scroll": "^1.8.0",
+    "react-square-payment-form": "^0.1.8",
+    "react-twitter-embed": "^2.0.8",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "square-connect": "^2.20200122.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "dev": "concurrently \"nodemon server.js\" \"react-scripts start\" ",
+    "push": "react-scripts build & git add . & git commit -m build & git push"
+  },
+  "proxy": "http://localhost:3100",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "concurrently": "^4.1.2",
+    "nodemon": "^1.19.4"
+  }
+}
