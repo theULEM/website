@@ -3,6 +3,7 @@ import React from "react";
 import styles from "./ImageModal.module.css";
 
 import modalImg from "../../../assets/image/JointheMovement.png";
+import ULEMBreakfastFundraiser2023 from "../../../assets/image/ULEMBreakfastFundraiser2023.jpg";
 
 // import modalImg from "../../../assets/image/OctLOL.jpg";
 // import modalImg from "../../../download/GenPowell.pdf";
@@ -39,7 +40,7 @@ const ImageModal = ({ id, title }) => {
               target="_blank"
               rel="noopener noreferrer"
             >  */}
-              <img className={styles.modalImage} src={modalImg} alt="modal" />
+              <img className={styles.modalImage} src={ULEMBreakfastFundraiser2023} alt="modal" />
             {/* </a>  */}
           </div>
         </div>
