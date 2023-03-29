@@ -72,11 +72,9 @@ export default class Programs extends Component {
         <p>
           For more information visit:{" "}
           <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="http://msimbo.herokuapp.com"
+            href="https://msimbo.org"
           >
-            http://www.msimbo.com
+            https://www.msimbo.org
           </a>
         </p>
         <hr />
