@@ -20,11 +20,6 @@ export const executiveCommittee = [
         organization: "TD Bank"
     },
     {
-        name: "Nikhil Goray",
-        job: "Chair of the ULEM Development Committee, Principal (Partner)",
-        organization: "Deloitte Consulting"
-    },
-    {
         name: "Jeffrey L. Hirsch",
         job: "Chair of the Personnel and Issue & Advocacy Committees, Attorney",
         organization: "Hirsch Roberts Weinstein LLP"
@@ -43,16 +38,6 @@ export const executiveCommittee = [
         name: "Prasad Thottempudi",
         job: "Chair of the ULEM Development Committee, Managing Director",
         organization: "Deloitte Consulting"
-    },
-    {
-        name: "Joshua Schanck",
-        job: "Chair of the ULEM Strategic Planning Committee, District Manager - Boston MA",
-        organization: "Starbucks"
-    },
-    {
-        name: "Malik A. Smith",
-        job: "First Vice President,",
-        organization: "Private Wealth Advisor, Commons Capital Advisors"
     },
     {
         name: "Mark Walker",
@@ -83,6 +68,11 @@ export const membersOfTheBoard = [
         "organization": "Citizens Bank "
     },
     {
+        name: "Nikhil Goray",
+        job: "Principal (Partner)",
+        organization: "Deloitte Consulting"
+    },
+    {
         "name": "Marian A. Green-Robinson",
         "job": "Vice President & Branch Manager, Stoughton Office",
         "organization": "Eastern Bank"
@@ -106,6 +96,11 @@ export const membersOfTheBoard = [
         "name": "Billy Shore",
         "job": "Founder and Executive Chair",
         "organization": "Share our Strength"
+    },
+    {
+        name: "Malik A. Smith",
+        job: "First Vice President",
+        organization: "Private Wealth Advisor, Commons Capital Advisors"
     },
     {
         "name": "Prasad Thottempudi",
@@ -202,6 +197,10 @@ export const boardEmeritus = [
         "name": "Dorothea Jones",
         "job": "ULEM Guild President, NCULG Guild Secretary",
         "organization": "National Urban League"
+    }, {
+        "name": "Ronia Stewart",
+        "job": "President & CEO",
+        "organization": "Garden of Eden & Associates, Inc."
     }
 ];
 
