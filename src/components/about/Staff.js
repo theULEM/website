@@ -22,7 +22,7 @@ export default class Staff extends Component {
                   <td>Vice President of Finance</td>
                 </tr>
                 <tr>
-                  <td>Charles Stewart</td>
+                  <td>William Watkins</td>
                   <td>Vice President Digital Strategy and Partnerships</td>
                 </tr>
                 <tr>
@@ -38,14 +38,6 @@ export default class Staff extends Component {
             </h5>
             <table>
               <tbody>
-                <tr>
-                  <td>William Watkins</td>
-                  <td>Director of Workforce Development</td>
-                </tr>
-                <tr>
-                  <td>Ariana Morgan</td>
-                  <td>Workforce Development, Case Manager</td>
-                </tr>
                 <tr>
                   <td>Betzaida Guzman</td>
                   <td>Workforce Development Coordinator/Data Specialist</td>
@@ -86,12 +78,6 @@ export default class Staff extends Component {
                   <td>Rev. Traci Jackson</td>
                   <td>
                     Executive Director, OVW Domestic/Sexual Violence Program
-                  </td>
-                </tr>
-                <tr>
-                  <td>Tonya Kibbe</td>
-                  <td>
-                    Assistant Coordinator, OVW Domestic/Sexual Violence Program
                   </td>
                 </tr>
               </tbody>

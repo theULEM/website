@@ -29,6 +29,12 @@ export const executiveCommittee = [
         job: "Chair of the ULEM Nominating Committee, Retired",
         organization: "Fidelity Investments"
     },
+
+    {
+        name: "Lori Nelson",
+        job: "Chair of the Strategic Planning Committee, Chief Resilience Officer",
+        organization: "City of Boston"
+    },
     {
         name: "Deloris Pettis",
         job: "Vice Chairwoman, Executive Director in the Office of Internal Audit",
@@ -81,11 +87,6 @@ export const membersOfTheBoard = [
         "name": "Dr. Aisha E. Miller",
         "job": "Vice President of Permitting, Community and Corporate Engagement",
         "organization": "Related Beal"
-    },
-    {
-        "name": "Lori Nelson",
-        "job": "Chief Resilience Officer,",
-        "organization": "City of Boston"
     },
     {
         "name": "Christopher Scranton",
