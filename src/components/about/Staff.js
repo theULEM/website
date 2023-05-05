@@ -14,7 +14,7 @@ export default class Staff extends Component {
             <table id="table-1">
               <tbody>
                 <tr>
-                  <td>Dr. J. Keith Motley,</td>
+                  <td>Dr. J. Keith Motley</td>
                   <td>Consultant President/CEO</td>
                 </tr>
                 <tr>
@@ -60,7 +60,7 @@ export default class Staff extends Component {
                 </tr>
                 <tr>
                   <td>Jacqueline Johnson</td>
-                  <td>Workforce Development Instructor - DigiUL</td>
+                  <td>Workforce Development Instructor, DigiUL</td>
                 </tr>
                 <tr>
                   <td>Robert LaCourt</td>
@@ -68,7 +68,7 @@ export default class Staff extends Component {
                 </tr>
                 <tr>
                   <td>Dele Omotosho</td>
-                  <td>Workforce Development Instructor - MSIMBO</td>
+                  <td>Workforce Development Instructor, MSIMBO</td>
                 </tr>
                 <tr>
                   <td>Othneil Uter</td>
