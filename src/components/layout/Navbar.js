@@ -57,7 +57,7 @@ export default class Navbar extends Component {
                 <Link className="nav-link" to="/">
                   Home
                 </Link>
-              </li> */}            
+              </li> */}
               <li className="nav-item dropdown">
                 <span
                   className="nav-link dropdown-toggle"
@@ -276,11 +276,11 @@ export default class Navbar extends Component {
                   COVID-19
                 </Link>
               </li> */}
-              <li className="nav-item" onClick={this.collapse}>
-                <Link className="nav-link" to="/search">
-                 President & CEO Search
-                </Link>
-              </li>
+              {/*<li className="nav-item" onClick={this.collapse}>*/}
+              {/*  <Link className="nav-link" to="/search">*/}
+              {/*   President & CEO Search*/}
+              {/*  </Link>*/}
+              {/*</li>*/}
             </ul>
           </div>
         </nav>
