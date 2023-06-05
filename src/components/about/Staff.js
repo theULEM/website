@@ -14,8 +14,12 @@ export default class Staff extends Component {
             <table id="table-1">
               <tbody>
                 <tr>
+                  <td>Rahsaan D. Hall, Esq.</td>
+                  <td>President & CEO</td>
+                </tr>
+                <tr>
                   <td>Dr. J. Keith Motley</td>
-                  <td>Consultant President/CEO</td>
+                  <td>Consultant to the President & CEO</td>
                 </tr>
                 <tr>
                   <td>Jacquie George</td>
