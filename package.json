@@ -42,7 +42,7 @@
     "eject": "react-scripts eject",
     "dev": "concurrently \"nodemon server.js\" \"react-scripts start\" ",
     "push": "react-scripts build & git add . & git commit -m build & git push",
-    "aws:deploy": "react-scripts build && git add . && git commit -m build && rm -rf ../aws-build.zip &&  zip -r ../aws-build.zip . -x ./node_modules/\\* && git push"
+    "aws:deploy": "react-scripts build && git add . && git commit -m build && rm -rf ../aws-build.zip && zip -r ../aws-build.zip . -x 'node_modules/*' -x '.git/*' -x '.idea/*'zip -r ../aws-build.zip . -x 'node_modules/*' -x '.git/*' -x '.idea/*' && git push"
   },
   "proxy": "http://localhost:3100",
   "eslintConfig": {
