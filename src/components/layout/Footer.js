@@ -177,7 +177,7 @@ export default class Footer extends Component {
           </div>
         </div>
         <div className="text-center ulem-bg-primary">
-          &copy; 2021 Copyright: ULEM
+          &copy; { new Date().getFullYear() } Copyright: ULEM
         </div>
       </footer>
     );
