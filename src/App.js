@@ -45,6 +45,7 @@ import Covid from "./pages/Covid/covid";
 import Scholarship from "./pages/Scholarship/scholarship";
 import Search from "./pages/CEOSearch/ceosearch";
 import MediaCommunicationPage from "./pages/RFP/MediaCommunicationPage";
+import GrantWriterPage from "./pages/RFP/GrantWriterPage";
 
 class App extends Component {
     render() {
@@ -84,6 +85,10 @@ class App extends Component {
                             exact
                             path={"/media-specialist"}
                             component={MediaCommunicationPage}/>
+                        <Route
+                            exact
+                            path={"/grant-writer"}
+                            component={GrantWriterPage}/>
                         <Route exact path="/membership" component={Membership}/>
                         <Route exact path="/faqmembership" component={FaqMembership}/>
                         <Route exact path="/donation" component={Donation}/>
