@@ -1,0 +1,7 @@
+{
+  "name": "authwit/kadence-pro",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^2"
+  }
+}

@@ -1,0 +1,4463 @@
+# Copyright (C) 2023 Kadence WP
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadence Blocks - PRO Extension 2.0.15\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kadence-blocks-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-03T18:50:59+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: kadence-blocks-pro\n"
+
+#. Plugin Name of the plugin
+msgid "Kadence Blocks - PRO Extension"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Extends Kadence Blocks with powerful extras that make it possible to create beautiful content in the WordPress Block Editor"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kadence WP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.kadencewp.com/"
+msgstr ""
+
+#: class-kadence-blocks-pro.php:78
+msgid "Cloning instances of the class is forbidden."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:88
+msgid "Unserializing instances of the class is forbidden."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:281
+msgid "Install Kadence Blocks"
+msgstr ""
+
+#: class-kadence-blocks-pro.php:284
+msgid "Activate Kadence Blocks"
+msgstr ""
+
+#. translators: %s is a link to kadence block plugin.
+#: class-kadence-blocks-pro.php:301
+msgid "Kadence Blocks Pro requires %s to be active for all functions to work."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:303
+msgid "Activating..."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:303
+msgid "Activated"
+msgstr ""
+
+#: class-kadence-blocks-pro.php:303
+msgid "Installing..."
+msgstr ""
+
+#: class-kadence-blocks-pro.php:303
+msgid "Installed"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:116
+#: includes/form/kbp-form-actions.php:278
+msgid "No Response from SendInBlue"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:236
+msgid "Failed to Connect to MailChimp"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:639
+#: includes/form/kbp-form-actions.php:162
+#: includes/form/kbp-form-actions.php:581
+msgid "Not Collected"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:661
+#: includes/advanced-form/advanced-form-submit-actions.php:672
+#: includes/form/kbp-form-actions.php:51
+#: includes/form/kbp-form-actions.php:61
+#: dist/blocks.js:7
+msgid "Thanks for contacting us!"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:662
+#: includes/advanced-form/advanced-form-submit-actions.php:673
+#: includes/form/kbp-form-actions.php:52
+#: includes/form/kbp-form-actions.php:62
+#: dist/blocks.js:7
+msgid "Thanks for getting in touch, we will respond within the next 24 hours."
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:803
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:815
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:284
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:296
+#: includes/form/admin/kb-form-admin-entries-table-list.php:696
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "All"
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1114
+msgid "View Project Preview"
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1115
+#: dist/blocks-videopopup.js:13
+msgid "Zoom"
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1176
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:2485
+msgid "No posts"
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1186
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:637
+msgid "Previous Page"
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1187
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:638
+msgid "Next Page"
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:2191
+msgid "Comment"
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:2193
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1905
+msgid "Comments"
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:2312
+msgid "Comment Count"
+msgstr ""
+
+#: includes/blocks/class-kadence-blocks-pro-productcarousel-block.php:258
+msgid "WooCommerce Missing"
+msgstr ""
+
+#: includes/blocks/form-activecampaign-rest-api.php:124
+#: includes/blocks/form-convertkit-rest-api.php:105
+#: includes/blocks/form-mailchimp-rest-api.php:152
+#: includes/blocks/form-sendinblue-rest-api.php:131
+msgid "Actionable endpoint for api call."
+msgstr ""
+
+#: includes/blocks/form-activecampaign-rest-api.php:129
+#: includes/blocks/form-mailchimp-rest-api.php:157
+#: includes/blocks/form-sendinblue-rest-api.php:136
+msgid "Query Args for url."
+msgstr ""
+
+#: includes/blocks/form-mailchimp-rest-api.php:147
+msgid "The API Key for mailchimp account."
+msgstr ""
+
+#: includes/blocks/form-sendinblue-rest-api.php:126
+msgid "The API Key for Brevo (SendInBlue ) account."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:297
+#: includes/class-kadence-blocks-dynamic-content-controller.php:332
+#: includes/class-kadence-blocks-dynamic-content-controller.php:702
+#: includes/class-kadence-blocks-dynamic-content-controller.php:704
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks.js:7
+msgid "No Content"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:673
+#: includes/class-kadence-blocks-dynamic-content-controller.php:675
+#: dist/blocks.js:7
+msgid "No Link"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:770
+#: includes/class-kadence-blocks-dynamic-content-controller.php:968
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1341
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1498
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1723
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1797
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1834
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1926
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1999
+msgid "Post URL"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:802
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1002
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1361
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1506
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1743
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1850
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1930
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2003
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2071
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2132
+msgid "Featured Image URL"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:818
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1017
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1386
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1875
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1943
+msgid "Archive URL"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:849
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1049
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1411
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1594
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1772
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1956
+msgid "Site URL"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:879
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1081
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1111
+#: dist/blocks-userinfo.js:14
+msgid "User Info"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1052
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1399
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1582
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1760
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1952
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2089
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2170
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2214
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2262
+msgid "Site"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1094
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1135
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1690
+#: dist/blocks.js:7
+msgid "Email"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1097
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1138
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1698
+msgid "Website"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1117
+msgid "ID"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1120
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1702
+msgid "Username"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1123
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1678
+#: dist/blocks.js:7
+msgid "First Name"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1126
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1682
+#: dist/blocks.js:7
+msgid "Last Name"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1129
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1686
+msgid "Display Name"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1132
+msgid "Description"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1161
+msgid "The origin of content."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1167
+#: includes/class-kadence-blocks-post-select-controller.php:684
+#: includes/class-kadence-blocks-post-select-controller.php:866
+msgid "The source of the content."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1173
+msgid "The group for source."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1179
+msgid "The dynamic field"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1184
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1218
+msgid "The custom field setting."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1188
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1222
+msgid "The custom field Key."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1192
+msgid "For a string return"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1197
+msgid "Fetch all fields"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1202
+msgid "Text Before Item."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1206
+msgid "Text After Item."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1210
+msgid "Fallback."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1214
+msgid "If the content is current."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1226
+#: includes/class-kadence-blocks-post-select-controller.php:741
+#: includes/class-kadence-blocks-post-select-controller.php:828
+#: includes/class-kadence-blocks-post-select-controller.php:873
+msgid "Number of results to return."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1232
+#: includes/class-kadence-blocks-post-select-controller.php:835
+#: includes/class-kadence-blocks-post-select-controller.php:879
+msgid "Page of results to return."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1251
+msgid "Product Gallery"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1255
+msgid "Product Gallery w/o Featured Image"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1464
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1499
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1560
+msgid "Pods Group"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1590
+msgid "Site Option:"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1597
+msgid "Setting:"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1649
+msgid "Meta Box"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1842
+msgid "Options"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1868
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1912
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1974
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1983
+msgid "Manual"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1987
+msgid "Custom Input"
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:680
+msgid "Taxonomy Type."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:699
+#: includes/class-kadence-blocks-post-select-controller.php:715
+msgid "Limit results to items of a specific post type."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:735
+#: includes/class-kadence-blocks-post-select-controller.php:821
+msgid "Include posts by ID."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:747
+msgid "Define Type of Query."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:751
+msgid "Define Query Order."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:755
+#: includes/class-kadence-blocks-post-select-controller.php:779
+msgid "Define Query Order By."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:759
+msgid "Allow Sticky in Query."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:764
+msgid "Exclude Category."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:768
+msgid "Number of items to offset in query."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:774
+msgid "Check if using a custom Taxonomy"
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:783
+msgid "Include posts category."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:788
+msgid "Include posts tags."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:805
+msgid "Limit results to items of an object type."
+msgstr ""
+
+#: includes/class-kadence-blocks-post-select-controller.php:816
+msgid "Limit results to items that match search query."
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:55
+msgid "Send in Blue V3 API Key"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:66
+msgid "Mail Chimp API Key"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:77
+msgid "ActiveCampaign API Key"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:88
+msgid "ActiveCampaign API Base"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:111
+#: dist/blocks-imageoverlay.js:14
+msgid "Image Overlay"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:112
+msgid "The Image Overlay block is a beautiful way to create an image link with an overlay title and subtitle. Using the powerful options you can set placement, animations, and hover effects."
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:117
+#: dist/blocks-splitcontent.js:13
+msgid "Split Content"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:118
+msgid "Easily create a two column row using an image or video in one column, drag to adjust the media column width and input any desirable blocks in the content column."
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:123
+#: dist/blocks-postgrid.js:14
+msgid "Post Grid/Carousel"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:124
+msgid "Add a grid or carousel of posts and customize the styling to your desired look. Posts can be selected individually or by category or tag."
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:129
+#: dist/blocks-modal.js:14
+#: dist/blocks-videopopup.js:13
+msgid "Modal"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:130
+msgid "Easily create call to action buttons that open a modal box. Include any kind of content within your modal. Customize overlay, animation, size, placement etc."
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:135
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-productcarousel.js:11
+msgid "Product Carousel"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:136
+msgid "Add a Woocommerce Product Carousel to your page or post. You can select products by category, on sale, best selling or just individually select the products you want to show."
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:141
+#: dist/blocks-videopopup.js:13
+msgid "Video Popup"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:142
+msgid "Beautifully display a thumbnail with overlay and hover effect that links to a video popup on click. Works with local or external videos!"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:147
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-portfoliogrid.js:22
+msgid "Portfolio Grid/Carousel"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:148
+msgid "Display a grid or carousel of portfolio styled posts. Use any post type and define colors, hover animations. You can also add a filter for sorting."
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:180
+msgctxt "Kadence Blocks"
+msgid "Custom Icons"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:208
+msgid "Choose or Upload File"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:209
+msgid "Use this File"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:221
+msgid "Icon Set"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:432
+#: includes/class-kadence-blocks-pro-custom-icons.php:444
+msgid "Custom Icons"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:433
+msgid "Custom Icon"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:434
+#: includes/class-kadence-blocks-pro-custom-icons.php:435
+msgid "Add New Custom Icon"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:436
+msgid "Edit Custom Icon"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:437
+msgid "New Custom Icon"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:438
+msgid "All Custom Icons"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:439
+msgid "View Custom Icon"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:440
+msgid "Search Custom Icons"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:441
+msgid "No Custom Icons found"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:442
+msgid "No Custom Icons found in Trash"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:492
+msgid "Custom Icon Set"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:517
+msgid "Not Found"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1333
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1536
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1715
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1822
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1922
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2023
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2067
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2152
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2196
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2240
+msgid "Post"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1337
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1494
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1540
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1640
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1719
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1793
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1830
+msgid "Post Title"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1345
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1502
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1548
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1648
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1727
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1801
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1349
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1731
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1838
+msgid "Post ID"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1353
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1552
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1735
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1842
+msgid "Post Date"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1357
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1556
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1739
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1846
+msgid "Post Last Modified Date"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1365
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1510
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1747
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1805
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1854
+msgid "Post Type"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1369
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1751
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1858
+msgid "Post Status"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1373
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1514
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1560
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1652
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1755
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1809
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1826
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1934
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2007
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2027
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2054
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2075
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2136
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2156
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2183
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2200
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2227
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2248
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2309
+msgid "Post Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1378
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1565
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1867
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1939
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2032
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2080
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2161
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2205
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2253
+msgid "Archive"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1382
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1569
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1871
+msgid "Archive Title"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1390
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1573
+msgid "Archive Description"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1394
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1577
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1879
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1947
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2036
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2084
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2165
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2209
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2257
+msgid "Archive Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1403
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1586
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1764
+msgid "Site Title"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1407
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1590
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1768
+msgid "Site Tagline"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1415
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1598
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1776
+msgid "Page Title"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1419
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1602
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1780
+msgid "Current User Display Name"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1423
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1606
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1784
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1960
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2097
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2174
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2218
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2270
+msgid "Site Custom Setting"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1428
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1965
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2041
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2102
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2275
+msgid "Media"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1432
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1969
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2106
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2279
+msgid "Media URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1436
+msgid "Media Title"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1440
+msgid "Media Caption"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1444
+msgid "Media Description"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1448
+msgid "Media Alt Text"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1452
+msgid "Media filename"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1456
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1973
+msgid "Media Attachment URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1460
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1977
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2045
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2110
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2283
+msgid "Media Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1465
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1611
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1884
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1982
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2115
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2288
+msgid "Author"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1469
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1615
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1888
+msgid "Author Display Name"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1473
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1619
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1892
+msgid "Author First Name"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1477
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1623
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1896
+msgid "Author Last Name"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1481
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1627
+msgid "Author Bio Info"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1485
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1631
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1900
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1990
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2123
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2296
+msgid "Author Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1490
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1636
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1789
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1995
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2050
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2128
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2179
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2223
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2301
+msgid "Meta Relationship"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1544
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1644
+msgid "Post Content"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1674
+msgid "Current User"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1694
+msgid "User Description"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1706
+msgid "User ID"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1710
+msgid "User Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1862
+msgid "Post Has Taxonomy"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1909
+msgid "Comments Count"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1986
+msgid "Author Archive URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2093
+msgid "Logo Image URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2119
+msgid "Author Image URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2244
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2305
+msgid "Featured Image"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2266
+msgid "Logo Image"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2292
+msgid "Author Image"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3044
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3046
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: search query
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3052
+msgid "Search Results for: %s"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:94
+#: includes/form/admin/kb-form-admin-entries-table-list.php:421
+#: dist/blocks.js:7
+msgid "Form Name"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:95
+#: includes/form/admin/kb-form-admin-entries-table-list.php:420
+msgid "Date Created"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:207
+msgid "Entry ID"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:208
+#: includes/form/admin/kb-form-admin-entries-table-list.php:419
+msgid "Form ID"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:209
+msgid "Page"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:210
+msgid "User IP"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:211
+msgid "User Device"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:278
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:281
+#: includes/form/admin/kadence-admin-form-entries.php:163
+#: includes/form/admin/kadence-admin-form-entries.php:169
+#: includes/form/admin/kadence-admin-form-entries.php:174
+msgid "No Data"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:55
+msgid "Kadence Blocks - Form Entries"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:55
+#: includes/form/admin/kadence-admin-form-entries.php:303
+msgid "Form Entries"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:139
+msgid "Form Entry"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:140
+msgid "Back to All Entries"
+msgstr ""
+
+#. translators: %1$s refers to form name, #%2$s refers to the entry number.
+#: includes/form/admin/kadence-admin-form-entries.php:150
+msgid "%1$s : Entry #%2$s"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:184
+msgid "Entry Details"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:190
+msgid "Entry ID:"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:195
+msgid "Form ID:"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:204
+msgid "Form Name:"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:213
+msgid "Submitted:"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:221
+msgid "User:"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:239
+msgid "Page:"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:246
+msgid "User IP:"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:253
+msgid "User Device:"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:276
+msgid "Move to trash"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:311
+msgid "Search entries"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:341
+msgid "Insufficient privileges to export entries."
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:42
+msgid "Entry"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:43
+msgid "Entries"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:59
+#: includes/form/admin/kb-form-admin-entries-table-list.php:186
+msgid "Published"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:60
+#: includes/form/admin/kb-form-admin-entries-table-list.php:187
+#: includes/form/admin/kb-form-admin-entries-table-list.php:267
+msgid "Trash"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:112
+#: includes/form/admin/kb-form-admin-entries-table-list.php:390
+msgid "{Deleted}"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:214
+msgid "No entries avaliable."
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:251
+msgid "View"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:287
+msgid "Restore"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:304
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:418
+msgid "Actions"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:422
+msgid "First Field"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:423
+msgid "Second Field"
+msgstr ""
+
+#. translators: %d: number of entries
+#: includes/form/admin/kb-form-admin-entries-table-list.php:612
+msgid "%d entry restored."
+msgid_plural "%d entries restored."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: number of entries
+#: includes/form/admin/kb-form-admin-entries-table-list.php:622
+msgid "%d entry permanently deleted."
+msgid_plural "%d entries permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: number of entries
+#: includes/form/admin/kb-form-admin-entries-table-list.php:632
+msgid "%d entry trashed."
+msgid_plural "%d entries trashed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:640
+msgid "Trash permanently deleted"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:669
+#: dist/blocks-portfoliogrid.js:22
+msgid "Filter"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:673
+msgid "Export CSV"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:679
+msgid "Empty Trash"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:694
+msgid "Filter by form"
+msgstr ""
+
+#: includes/form/kbp-form-actions.php:146
+msgid "submission"
+msgstr ""
+
+#: includes/form/kbp-form-actions.php:552
+msgid "No Response from Active Campaign"
+msgstr ""
+
+#. translators: %s - link to a site.
+#: includes/templates/form-auto-email.php:136
+msgid "Sent from %s"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:1
+#: dist/blocks-dynamiclist.js:1
+#: dist/blocks.js:7
+msgid "Show fields from all post types"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:1
+#: dist/blocks-dynamiclist.js:1
+#: dist/blocks.js:7
+msgid "Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:1
+#: dist/blocks-dynamiclist.js:1
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks.js:1
+#: dist/blocks.js:7
+msgid "Select"
+msgstr ""
+
+#. translators: %s: color hex code e.g: "#f00".
+#: dist/blocks-dynamichtml.js:13
+#: dist/blocks-dynamiclist.js:13
+#: dist/blocks-imageoverlay.js:13
+#: dist/blocks-modal.js:13
+#: dist/blocks-portfoliogrid.js:13
+#: dist/blocks-postgrid.js:13
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-slide.js:13
+#: dist/blocks-slider.js:7
+#: dist/blocks-splitcontent.js:13
+#: dist/blocks-userinfo.js:13
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Dynamic Content"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:13
+#: dist/blocks-dynamiclist.js:13
+#: dist/blocks-imageoverlay.js:13
+#: dist/blocks-modal.js:13
+#: dist/blocks-portfoliogrid.js:13
+#: dist/blocks-postgrid.js:13
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-slide.js:13
+#: dist/blocks-slider.js:7
+#: dist/blocks-splitcontent.js:13
+#: dist/blocks-userinfo.js:13
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Create dynamic sites by populating content from various sources."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:13
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:13
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-imageoverlay.js:13
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-modal.js:13
+#: dist/blocks-modal.js:14
+#: dist/blocks-portfoliogrid.js:13
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:13
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-slide.js:13
+#: dist/blocks-slide.js:27
+#: dist/blocks-slider.js:7
+#: dist/blocks-splitcontent.js:13
+#: dist/blocks-userinfo.js:13
+#: dist/blocks-userinfo.js:14
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:13
+#: dist/blocks-dynamiclist.js:13
+#: dist/blocks-imageoverlay.js:13
+#: dist/blocks-modal.js:13
+#: dist/blocks-portfoliogrid.js:13
+#: dist/blocks-postgrid.js:13
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-slide.js:13
+#: dist/blocks-slider.js:7
+#: dist/blocks-splitcontent.js:13
+#: dist/blocks-userinfo.js:13
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Dynamic Background Image"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:13
+#: dist/blocks-dynamiclist.js:13
+#: dist/blocks-imageoverlay.js:13
+#: dist/blocks-modal.js:13
+#: dist/blocks-portfoliogrid.js:13
+#: dist/blocks-postgrid.js:13
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-slide.js:13
+#: dist/blocks-slider.js:7
+#: dist/blocks-splitcontent.js:13
+#: dist/blocks-userinfo.js:13
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Create dynamic sites by populating background images from various sources."
+msgstr ""
+
+#. translators: %d: heading level e.g: "1", "2", "3"
+#. translators: %s: color hex code e.g: "#f00".
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-slide.js:27
+#: dist/blocks-slider.js:7
+#: dist/blocks-splitcontent.js:13
+#: dist/blocks-userinfo.js:14
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Dynamic Link"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-slide.js:27
+#: dist/blocks-slider.js:7
+#: dist/blocks-splitcontent.js:13
+#: dist/blocks-userinfo.js:14
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Dynamic URL"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-slide.js:27
+#: dist/blocks-slider.js:7
+#: dist/blocks-splitcontent.js:13
+#: dist/blocks-userinfo.js:14
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Create dynamic sites by populating urls from various sources."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks.js:7
+msgid "Type to search"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Edit"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Clear"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "This content is password protected."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "Block cannot render source post content inside the source post content."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "Dynamic HTML"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "html"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+msgid "dynamic"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "Display dynamic html content."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+msgid "Source"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "HTML Content"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:1
+#: dist/blocks.js:7
+msgid "None"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks.js:7
+msgid "Relationship Source"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks.js:7
+msgid "Custom Meta Key"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks.js:7
+msgid "Custom Field"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "Container HTML tag"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "Use Inner Tag Wrap"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-userinfo.js:14
+msgid "Content Alignment"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "Text Color"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "Heading Color"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Link Color"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Normal"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-videopopup.js:13
+msgid "Hover"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+msgid "Link Style"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+msgid "Unset"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+msgid "Underline"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+msgid "Underline on Hover"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "Text Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H1 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H1 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H2 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H2 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H3 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H3 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H4 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H4 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H5 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H5 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H6 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "H6 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-slider.js:7
+msgid "Padding"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-slider.js:7
+msgid "Margin"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:14
+msgid "No content found."
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:13
+#: dist/blocks-portfoliogrid.js:13
+#: dist/blocks-postgrid.js:13
+#: dist/blocks.js:7
+msgid "Select Term"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-postgrid.js:22
+#: dist/blocks.js:7
+msgid "Select Taxonomy"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Dynamic List"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "list"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Display dynamic items in a list."
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Bullets"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Number List"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Basic"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Pill"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Source Type"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Taxonomy"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Custom Post Meta"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Enable Link"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "List Direction"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Horizontal"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Vertical"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "List Style"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "List Divider"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Item Color"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Hover Color"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "Item Background"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-portfoliogrid.js:22
+msgid "Hover Background"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+#: dist/blocks-modal.js:14
+msgid "Typography"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:14
+msgid "No Items found."
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-splitcontent.js:13
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "Image"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Overlay"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-videopopup.js:13
+msgid "Square 1:1"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-videopopup.js:13
+msgid "Portrait 3:4"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Portrait 2:3"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-videopopup.js:13
+msgid "Tall Portrait 1:2"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-videopopup.js:13
+msgid "Landscape 4:3"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Landscape 3:2"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-videopopup.js:13
+msgid "Wide Landscape 16:9"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-videopopup.js:13
+msgid "Wider Landscape 2:1"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Inherit"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Edit image"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-slide.js:27
+msgid "Image File Size"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks.js:7
+msgid "Link"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-videopopup.js:13
+msgid "Max Width"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+msgid "On Hover Img:"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+msgid "Static"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Zoom in"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Slide"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Gray Scale"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+msgid "Blur"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-videopopup.js:13
+msgid "Overlay Opacity"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Use ratio size instead of image size"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Overlay Color"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Overlay Hover Opacity"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-videopopup.js:13
+msgid "Border Settings"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Border Position from Edge"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Text Alignment Settings"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-splitcontent.js:13
+msgid "Vertical Align"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-splitcontent.js:13
+msgid "Center"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-splitcontent.js:13
+msgid "Top"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-splitcontent.js:13
+msgid "Bottom"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Opposite"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-splitcontent.js:13
+msgid "Horizontal Align"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-splitcontent.js:13
+msgid "Left"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-modal.js:14
+#: dist/blocks-splitcontent.js:13
+msgid "Right"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Make Text Background Full"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-postgrid.js:22
+msgid "Title Settings"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Use Title"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Title Color"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Title Background"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Title and Subtitle Divider"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Divider Style"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Solid Line"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Dashed Line"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Dotted Line"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Double Line"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Divider Color"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Divider Height in px"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Divider Width by %"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Subtitle Settings"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Use Subtitle"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Subtitle Style"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Hidden until Hover"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Always Visible"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Subtitle Color"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Subtitle Background"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-videopopup.js:13
+msgid "Select Image"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+#: dist/blocks-portfoliogrid.js:22
+msgid "Title"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:14
+msgid "Subtitle"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Popup"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Close X Tablet Size"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Close X Desktop Size"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Show Modal Content"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Hide Modal Content"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Box Horizonal Align"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Box Vertical Align"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Middle"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Box Height"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fit to Content"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fixed Minimum Height"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Full Screen Height"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fixed Minimum Height (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Width (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Max Width (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Overlay Background Color"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Open Animation"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade In"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade In Up"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade In Down"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade In Left"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade In Right"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Slide In Up"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Slide In Down"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Slide In Left"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Slide In Right"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks.js:1
+msgid "Zoom In"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Close Animation"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade Out"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade Out Up"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade Out Down"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade Out Left"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Fade Out Right"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Slide Out Up"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Slide Out Down"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Slide Out Left"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Slide Out Right"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:1
+msgid "Zoom Out"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Close Button"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Enable Close X"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Close X Position"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Close X Size (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Color Settings"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "HOVER: X Color"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "HOVER: X Background"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "X Color"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "X Background"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Close Button Aria Label"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "This defines the aria label to make the close button more accessible."
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Box Styling"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Inner Horizonal Align"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Inner Vertical Align"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Background Color"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Padding"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Margin"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Box Shadow"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+#: dist/blocks-splitcontent.js:13
+msgid "Enable Shadow"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Link Styling"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "HOVER: Link Color"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "HOVER: Link Background"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "HOVER: Link Border Color"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "HOVER: Link Box Shadow"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Link Background"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Link Border Color"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Link Box Shadow"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Link Border Width (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Link Border Radius (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Icon Side"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Show only Icon"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Load Content After Footer"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "This creates better support for a modal if placed outside of content area."
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Custom Open ID"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Using this you can define a custom open ID making it possible to open from another link on your page. The link should be #CUSTOMID and you need to give the link the class “modal-trigger”."
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Learn More"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Modal Content"
+msgstr ""
+
+#: dist/blocks-modal.js:14
+msgid "Create Awesome"
+msgstr ""
+
+#. translators: %d: heading level e.g: "1", "2", "3"
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "Select posts"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "Filter Posts"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks.js:7
+msgid "Search"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "Show Filters"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "Previous"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "Next"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "No posts found matching filters"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "No posts have been selected"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "View Selected"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "Browse Posts"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:22
+msgid "Masonry"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:22
+msgid "Grid"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:22
+msgid "Carousel"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+msgid "Fluid Carousel"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+msgid "Center on Hover"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+msgid "Rollup Post"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+msgid "Grid Carousel"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+msgid "Display a grid or carousel of portfolio styled posts."
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-productcarousel.js:7
+msgid "Current Selection"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+msgid "Order by"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+msgid "Newest to Oldest"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+msgid "Oldest to Newest"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+msgid "Modified Ascending"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:14
+#: dist/blocks-postgrid.js:14
+msgid "Modified Decending"
+msgstr ""
+
+#. translators: label for ordering posts by title in ascending order
+#: dist/blocks-portfoliogrid.js:16
+#: dist/blocks-postgrid.js:16
+msgid "A → Z"
+msgstr ""
+
+#. translators: label for ordering posts by title in descending order
+#: dist/blocks-portfoliogrid.js:18
+#: dist/blocks-postgrid.js:18
+msgid "Z → A"
+msgstr ""
+
+#. translators: label for ordering posts by title in descending order
+#: dist/blocks-portfoliogrid.js:20
+#: dist/blocks-postgrid.js:20
+msgid "Menu Order"
+msgstr ""
+
+#. translators: label for ordering posts by title in descending order
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Random"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Filter by Category"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Filter by Tag"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Select the post Taxonomy"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Item Ratio"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Landscape 16:9"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Landscape 2:1"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Landscape 3:1"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Landscape 4:1"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-productcarousel.js:11
+msgid "Column Gap"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Row Gap"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Row Height"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Carousel Height"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Carousel Center Mode"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-productcarousel.js:11
+msgid "Carousel Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Carousel Auto Play"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Autoplay Speed"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Carousel Slide Transition Speed"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Slides to Scroll"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "White on Dark"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Black on Light"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Outline Black"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Outline White"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Dot Style"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Dark"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Light"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Outline Dark"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Outline Light"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Background Color"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Container Pad"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Hover Animation Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks.js:1
+msgid "Slide Right"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks.js:1
+msgid "Slide Left"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "On Hover Content:"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks.js:1
+msgid "Slide Up"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks.js:1
+msgid "Slide Down"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Hover & Content Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Content Background"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Hover Border Offset"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Content Border Offset"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Show Title"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Title Typography Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Excerpt"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Show Excerpt"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Excerpt Color"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Excerpt Typography Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Show Filter"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Filter All Label"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Filter Border Width"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Filter Border Radius"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Filter Item Padding"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Filter Item Margin"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Filter Colors"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Active"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Hover Border"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Active Color"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Active Background"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Active Border"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Filter Color"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Filter Background"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Filter Border"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Filter Typography Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Taxonomies"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "Show Taxonomies"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Category Divider"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Taxonomy Color"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Link Hover Color"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-postgrid.js:22
+msgid "Taxonomy Typography Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+#: dist/blocks-productcarousel.js:11
+msgid "No posts found."
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:22
+msgid "(Untitled)"
+msgstr ""
+
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-userinfo.js:14
+msgid "KB"
+msgstr ""
+
+#: dist/blocks-postgrid.js:14
+msgid "Display a grid or carousel of posts."
+msgstr ""
+
+#: dist/blocks-postgrid.js:14
+#: dist/blocks-postgrid.js:22
+msgid "Read More"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Include"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Exclude"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Whether to include or exclude items from selected terms."
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Exclude Current"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Exclude the current post/page from query."
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Unique"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Exclude posts in this block from showing in others on the same page."
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Allow Sticky Posts?"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Layout Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Layout"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-productcarousel.js:11
+msgid "Scroll Speed"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-productcarousel.js:11
+msgid "Pause on Hover"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Arrow Style"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Image Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Image ratio"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Image is a link to post"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Image Padding"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Container Padding"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-userinfo.js:14
+#: dist/blocks-videopopup.js:13
+msgid "Box Shadow"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Header Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Header Padding"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Header Margin"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Content Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Footer Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Display Filter"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Align text left"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Align text center"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Align text right"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Above Title Categories"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Categories Above title"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Categories Color"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Link Coloradvanced"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Categories Typography Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Above Title Taxonomy"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Taxonomy Above title"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Taxonomy Divider"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Title is a link to post"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Title Hover Color"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Below Title Meta"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Date"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Date Pre Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Modified Date"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Modified Date Pre Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Author"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Author Pre Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Category"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Category Pre Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Comment Count"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Meta Divider"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Meta Color"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Color"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Meta Typography Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Enable Custom Excerpt Length"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Max number of words in excerpt"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Read More"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Read More Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Read More Border Width"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Read More Border Radius"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Footer Meta"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Force to align bottom?"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Categories"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Only shows if post type supports Categories"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Tags"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Author Icon"
+msgstr ""
+
+#: dist/blocks-postgrid.js:22
+msgid "Show Comment Count (post must have comments)"
+msgstr ""
+
+#: dist/blocks-productcarousel.js:1
+msgid "Add to cart"
+msgstr ""
+
+#: dist/blocks-productcarousel.js:7
+#: dist/blocks-productcarousel.js:11
+msgid "Select Products"
+msgstr ""
+
+#. translators: label for ordering posts by title in descending order
+#: dist/blocks-productcarousel.js:11
+msgid "Product Style"
+msgstr ""
+
+#: dist/blocks-productcarousel.js:11
+msgid "Boxed"
+msgstr ""
+
+#: dist/blocks-productcarousel.js:11
+msgid "Unboxed"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Multiply"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Screen"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Darken"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Lighten"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Color Dodge"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Color Burn"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Difference"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Exclusion"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Hue"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Saturation"
+msgstr ""
+
+#: dist/blocks-slide.js:27
+#: dist/blocks-videopopup.js:13
+msgid "Luminosity"
+msgstr ""
+
+#: dist/blocks-slider.js:7
+msgid "Min Height"
+msgstr ""
+
+#: dist/blocks-slider.js:7
+msgid "Inner Max Width"
+msgstr ""
+
+#: dist/blocks-slider.js:7
+msgid "Advanced Slider"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Split"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Edit Media"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Minimum Height"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Media Side"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Media Size Control"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Auto"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Contain"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Cover"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Media Link"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Media Area Background Color"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Content Area Background Color"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Content Style Settings"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Content Max Width"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Content Shadow"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Shadow Color"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Shadow Blur"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Shadow Spread"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Shadow Vertical Offset"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Shadow Horizontal Offset"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:13
+msgid "Media area"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Heading 1"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Heading 2"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Heading 3"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Heading 4"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Heading 5"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Heading 6"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Paragraph"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Enable Avatar"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Enable Name"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Before Name Text"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Name HTML Tag"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Change Heading Level"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Enable Registered Date"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Before Registered Date Text"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Container Background"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Avatar Styles"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Avatar Width"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Avatar Gap with Content"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Name Styles"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Name Color"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Registered Styles"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Registered Date Color"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "user info"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "information"
+msgstr ""
+
+#: dist/blocks-userinfo.js:14
+msgid "Display a information about the current user."
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Paste or type URL"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Submit"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Solid"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Gradient"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Linear"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Radial"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Edit Video"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Video Type"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "YouTube/Vimeo/VideoPress"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Self Hosted"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Video URL"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Select Video"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Insert from URL"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:7
+msgid "URL"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Apply"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Edit Video URL"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Aria Label"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Video Poster"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Poster Image File Size"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Poster Background"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Poster Ratio"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Inherit from Image"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Popup Background Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Popup Close Background Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Popup Close Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Pop Animation"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:1
+msgid "Fade Right"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+#: dist/blocks.js:1
+msgid "Fade Left"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "3d Unfold"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Play Icon"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Icon Style"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Icon Size"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Line Width"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Icon Hover Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Icon Hover Background"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Icon Hover Border Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Icon Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Icon Background"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Icon Border Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Border Width"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Border Radius (%)"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Linked"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Individual"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Padding (px)"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Title for Icon"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Image Overlay Settings"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Hover Opacity"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Overlay Type"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Overlay Fill"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Gradient Color 1"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Location"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Gradient Color 2"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Gradient Type"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Gradient Angle"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Gradient Position"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Center Top"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Center Center"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Center Bottom"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Left Top"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Left Center"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Left Bottom"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Right Top"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Right Center"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Right Bottom"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Shadow"
+msgstr ""
+
+#: dist/blocks-videopopup.js:13
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Fade"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Fade Up"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Fade Down"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Fade Up Right"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Fade Up Left"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Fade Down Right"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Fade Down Left"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Flip Up"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Flip Down"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Flip Left"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Flip Right"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Zoom In Up"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Zoom In Down"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Zoom In Left"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Zoom In Right"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Zoom Out Up"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Zoom Out Down"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Zoom Out Left"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Zoom Out Right"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Slide Reveal Up"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Slide Reveal Down"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Slide Reveal Left"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Slide Reveal Right"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Cover Swipes Up"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Cover Swipes Down"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Cover Swipes Left"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Cover Swipes Right"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Fade Opposite Sides In"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Fade Center Out"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Slide Opposite Sides In"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Slide Center Out"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Animate on Scroll"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Animation"
+msgstr ""
+
+#: dist/blocks.js:1
+#: dist/blocks.js:7
+msgid "Animation Duration"
+msgstr ""
+
+#: dist/blocks.js:1
+#: dist/blocks.js:7
+msgid "Animation Ease"
+msgstr ""
+
+#: dist/blocks.js:1
+#: dist/blocks.js:7
+msgid "Start Delay"
+msgstr ""
+
+#: dist/blocks.js:1
+#: dist/blocks.js:7
+msgid "Only show once per page load?"
+msgstr ""
+
+#: dist/blocks.js:1
+#: dist/blocks.js:7
+msgid "Pixel offset for when animation triggers"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Offset Delay for each part"
+msgstr ""
+
+#: dist/blocks.js:1
+msgid "Play Animation"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Select Field"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Not Empty"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Empty"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Contains"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Does Not Contain"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Begins With"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Does Not Begin With"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Ends With"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Does Not End With"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Select Option"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Compare Value"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Remove Rule"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Field"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Compare Type"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Add Rule"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Content"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Content Source"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "*Previewing Latest Post"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Advanced"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Before Content"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "After Content"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Fallback Content"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Enable Dynamic Link"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Link Source"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Current Post"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Before link"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "After link"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Fallback Link"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Enable Dynamic URL"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Before URL"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "After URL"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Fallback URL"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Enable Dynamic Background Image"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Background Image"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Image Source"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "*Using Previewing Post"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Image Size"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Full"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Large"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Medium Large"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Medium"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Thumbnail"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Fallback Image URL"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Enable Dynamic Image"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Dynamic Image"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Enable Dynamic Gallery"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Gallery"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Gallery Source"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Images Size"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Dynamic Gallery"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Enable Dynamic Content"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Update Dynamic Content"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Add Dynamic Content"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Insert Dynamic Content"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "True"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "False"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Conditional Type"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Conditional Display"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Enable Conditional Display"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Conditional"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Conditional Source"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Show Block if"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Or"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "And"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Hide"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Show"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Conditional Field"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Enable Conditional Field"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Combine Logic"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Action"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "this field if..."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Page Scripts"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Custom CSS and JS"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Post Specific CSS"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Post Specific Scripts"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "<head>"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "<body>"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "<footer>"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Save/Close"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Animate On Scroll Defaults"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Animate On Scroll"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "All Users"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Minimum User Role Contributor"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Minimum User Role Author"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Minimum User Role Editor"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Minimum User Role Admin"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "No Users"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Default Animation Settings"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Conditional Display Defaults"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Brevo (SendInBlue) Settings"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Get API Key"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Get help"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "API Key (v3)"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Saving"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Save"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Remove"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Select List"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "No list found."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Map Fields"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "No Fields found."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Form Field"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "MailChimp Settings"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "API Key"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Select Audience"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "No Audience found."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Select Groups"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "No Groups found."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Select Tags"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "No Tags found."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Require Double Opt In?"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Search for Tag"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Email *"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Phone"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "ActiveCampaign Settings"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "API URL"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "No Lists found."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "This will set the status of the contact to unconfirmed, you must setup an automation in ActiveCampaign to email the contact and update the status after confirmation."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Redirect"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Auto Respond Email"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Send instant response to form entrant"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Database Entry"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Log each form submission"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Mailerlite"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Add User to MailerLite list"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "FluentCRM"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Add user to FluentCRM list"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Brevo (SendInBlue)"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Add User to Brevo list"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "MailChimp"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Add User to MailChimp list"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "WebHook"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Send form information to any third party webhook"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Active Campaign"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Add subscriber to Active Campaign"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Auto Response Settings"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Email Subject"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Email Message"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "From Email"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "From Name"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Reply To"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Cc"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Bcc"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Send as HTML email?"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "If off plain text is used."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Override Email to Address"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "By default email is sent to the email field, you can use this to override."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Entry Settings"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Save User IP Address"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Saves the entrants IP address with the form data"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Save User Device"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Saves the entrants device with form data"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Webhook Settings"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Webhook URL"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Enter the URL that will receive the form submitted data."
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Webhook Field Name"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Date"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Evergreen (Pro addon)"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Show Timer at Zero"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Hide (Pro addon)"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Replace with Content (Pro addon)"
+msgstr ""
+
+#: dist/blocks.js:7
+msgid "Redirect (Pro addon)"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Icon Set Prefix:"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Upload an Icon file"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Replace Icon file"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Upload Icon JSON file"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Upload the .json file from within the IcoMoon .zip file (Make sure each set has a unique prefix)"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Need help?"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Visit the documentation here"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Browse"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Select a file"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Cancel"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Invalid JSON file"
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Invalid JSON file. File not an object."
+msgstr ""
+
+#: dist/icon-upload.js:1
+msgid "Upload"
+msgstr ""
+
+#: dist/blocks/dynamichtml/block.json
+#: src/blocks/dynamichtml/block.json
+msgctxt "block title"
+msgid "Dynamic HTML"
+msgstr ""
+
+#: dist/blocks/dynamiclist/block.json
+#: src/blocks/dynamiclist/block.json
+msgctxt "block title"
+msgid "Dynamic List"
+msgstr ""
+
+#: dist/blocks/imageoverlay/block.json
+#: dist/blocks/userinfo/block.json
+#: src/blocks/imageoverlay/block.json
+#: src/blocks/userinfo/block.json
+msgctxt "block title"
+msgid "Image Overlay"
+msgstr ""
+
+#: dist/blocks/modal/block.json
+#: src/blocks/modal/block.json
+msgctxt "block title"
+msgid "Modal"
+msgstr ""
+
+#: dist/blocks/portfoliogrid/block.json
+#: src/blocks/portfoliogrid/block.json
+msgctxt "block title"
+msgid "Portfolio Grid"
+msgstr ""
+
+#: dist/blocks/postgrid/block.json
+#: src/blocks/postgrid/block.json
+msgctxt "block title"
+msgid "Post Grid"
+msgstr ""
+
+#: dist/blocks/productcarousel/block.json
+#: src/blocks/productcarousel/block.json
+msgctxt "block title"
+msgid "Product Carousel"
+msgstr ""
+
+#: dist/blocks/slide/block.json
+#: src/blocks/slide/block.json
+msgctxt "block title"
+msgid "Slide"
+msgstr ""
+
+#: dist/blocks/slider/block.json
+#: src/blocks/slider/block.json
+msgctxt "block title"
+msgid "Advanced Slider"
+msgstr ""
+
+#: dist/blocks/splitcontent/block.json
+#: src/blocks/splitcontent/block.json
+msgctxt "block title"
+msgid "Split Content"
+msgstr ""
+
+#: dist/blocks/videopopup/block.json
+#: src/blocks/videopopup/block.json
+msgctxt "block title"
+msgid "Video Popup"
+msgstr ""

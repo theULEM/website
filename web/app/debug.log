@@ -1,0 +1,76 @@
+[04-Oct-2023 14:10:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/web/app/plugins/kadence-pro/dist/dashboard/class-kadence-pro-dashboard.php on line 443
+[04-Oct-2023 14:10:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/web/app/plugins/kadence-pro/dist/dashboard/class-kadence-pro-dashboard.php on line 444
+[04-Oct-2023 19:10:25 UTC] PHP Warning:  XMLReader::read(): /var/www/web/app/uploads/2023/10/demo-content-import-file_2023-10-04__19-10-24.xml:1: parser error : Document is empty in /var/www/web/app/plugins/kadence-starter-templates/vendor/wxr-importer/WXRImporter.php on line 357
+[04-Oct-2023 19:10:25 UTC] PHP Warning:  XMLReader::read(): &quot;Invalid Request, Incorrect Page ID&quot; in /var/www/web/app/plugins/kadence-starter-templates/vendor/wxr-importer/WXRImporter.php on line 357
+[04-Oct-2023 19:10:25 UTC] PHP Warning:  XMLReader::read(): ^ in /var/www/web/app/plugins/kadence-starter-templates/vendor/wxr-importer/WXRImporter.php on line 357
+[04-Oct-2023 19:10:25 UTC] PHP Warning:  Undefined property: Kadence_Starter_Templates\Logger::$messages in /var/www/web/app/plugins/kadence-starter-templates/class-kadence-starter-templates.php on line 1807
+[04-Oct-2023 19:12:12 UTC] PHP Warning:  XMLReader::read(): /var/www/web/app/uploads/2023/10/demo-content-import-file_2023-10-04__19-12-11.xml:1: parser error : Document is empty in /var/www/web/app/plugins/kadence-starter-templates/vendor/wxr-importer/WXRImporter.php on line 357
+[04-Oct-2023 19:12:12 UTC] PHP Warning:  XMLReader::read(): &quot;Invalid Request, Incorrect Page ID&quot; in /var/www/web/app/plugins/kadence-starter-templates/vendor/wxr-importer/WXRImporter.php on line 357
+[04-Oct-2023 19:12:12 UTC] PHP Warning:  XMLReader::read(): ^ in /var/www/web/app/plugins/kadence-starter-templates/vendor/wxr-importer/WXRImporter.php on line 357
+[04-Oct-2023 19:12:12 UTC] PHP Warning:  Undefined property: Kadence_Starter_Templates\Logger::$messages in /var/www/web/app/plugins/kadence-starter-templates/class-kadence-starter-templates.php on line 1807
+[04-Oct-2023 19:16:42 UTC] PHP Warning:  XMLReader::read(): /var/www/web/app/uploads/2023/10/demo-content-import-file_2023-10-04__19-16-41.xml:1: parser error : Document is empty in /var/www/web/app/plugins/kadence-starter-templates/vendor/wxr-importer/WXRImporter.php on line 357
+[04-Oct-2023 19:16:42 UTC] PHP Warning:  XMLReader::read(): &quot;Invalid Request, Incorrect Page ID&quot; in /var/www/web/app/plugins/kadence-starter-templates/vendor/wxr-importer/WXRImporter.php on line 357
+[04-Oct-2023 19:16:42 UTC] PHP Warning:  XMLReader::read(): ^ in /var/www/web/app/plugins/kadence-starter-templates/vendor/wxr-importer/WXRImporter.php on line 357
+[04-Oct-2023 19:16:42 UTC] PHP Warning:  Undefined property: Kadence_Starter_Templates\Logger::$messages in /var/www/web/app/plugins/kadence-starter-templates/class-kadence-starter-templates.php on line 1807
+[04-Oct-2023 20:30:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/web/app/plugins/kadence-pro/dist/dashboard/class-kadence-pro-dashboard.php on line 443
+[04-Oct-2023 20:30:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/web/app/plugins/kadence-pro/dist/dashboard/class-kadence-pro-dashboard.php on line 444
+[04-Oct-2023 20:56:13 UTC] PHP Warning:  include(/var/www/web/app/plugins/fluentform/vendor/composer/../../app/Modules/Widgets/SidebarWidgets.php): Failed to open stream: No such file or directory in /var/www/vendor/composer/ClassLoader.php on line 576
+[04-Oct-2023 20:56:13 UTC] PHP Warning:  include(): Failed opening '/var/www/web/app/plugins/fluentform/vendor/composer/../../app/Modules/Widgets/SidebarWidgets.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/vendor/composer/ClassLoader.php on line 576
+[04-Oct-2023 20:56:13 UTC] PHP Warning:  include(/var/www/web/app/plugins/fluentform/vendor/composer/../../app/Modules/Widgets/SidebarWidgets.php): Failed to open stream: No such file or directory in /var/www/vendor/composer/ClassLoader.php on line 576
+[04-Oct-2023 20:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "FluentForm\App\Modules\Widgets\SidebarWidgets" not found in /var/www/web/wp/wp-includes/class-wp-widget-factory.php:62
+Stack trace:
+#0 /var/www/web/wp/wp-includes/widgets.php(115): WP_Widget_Factory->register('FluentForm\\App\\...')
+#1 /var/www/web/app/plugins/fluentform/app/Hooks/actions.php(745): register_widget('FluentForm\\App\\...')
+#2 /var/www/web/wp/wp-includes/class-wp-hook.php(310): FluentForm\Framework\Foundation\Application->{closure}('')
+#3 /var/www/web/wp/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/web/wp/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/web/wp/wp-includes/widgets.php(1858): do_action('widgets_init')
+#6 /var/www/web/wp/wp-includes/class-wp-hook.php(310): wp_widgets_init('')
+#7 /var/www/web/wp/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#8 /var/www/web/wp/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /var/www/web/wp/wp-settings.php(632): do_action('init')
+#10 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#11 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#12 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#13 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#14 {main}
+  thrown in /var/www/web/wp/wp-includes/class-wp-widget-factory.php on line 62
+[04-Oct-2023 20:56:13 UTC] PHP Warning:  include(): Failed opening '/var/www/web/app/plugins/fluentform/vendor/composer/../../app/Modules/Widgets/SidebarWidgets.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/vendor/composer/ClassLoader.php on line 576
+[04-Oct-2023 20:56:13 UTC] PHP Warning:  include(/var/www/web/app/plugins/fluentform/vendor/composer/../../app/Modules/Widgets/SidebarWidgets.php): Failed to open stream: No such file or directory in /var/www/vendor/composer/ClassLoader.php on line 576
+[04-Oct-2023 20:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "FluentForm\App\Modules\Widgets\SidebarWidgets" not found in /var/www/web/wp/wp-includes/class-wp-widget-factory.php:62
+Stack trace:
+#0 /var/www/web/wp/wp-includes/widgets.php(115): WP_Widget_Factory->register('FluentForm\\App\\...')
+#1 /var/www/web/app/plugins/fluentform/app/Hooks/actions.php(745): register_widget('FluentForm\\App\\...')
+#2 /var/www/web/wp/wp-includes/class-wp-hook.php(310): FluentForm\Framework\Foundation\Application->{closure}('')
+#3 /var/www/web/wp/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/web/wp/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/web/wp/wp-includes/widgets.php(1858): do_action('widgets_init')
+#6 /var/www/web/wp/wp-includes/class-wp-hook.php(310): wp_widgets_init('')
+#7 /var/www/web/wp/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#8 /var/www/web/wp/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /var/www/web/wp/wp-settings.php(632): do_action('init')
+#10 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#11 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#12 /var/www/web/wp/wp-admin/admin-ajax.php(22): require_once('/var/www/web/wp...')
+#13 {main}
+  thrown in /var/www/web/wp/wp-includes/class-wp-widget-factory.php on line 62
+[04-Oct-2023 20:56:13 UTC] PHP Warning:  include(): Failed opening '/var/www/web/app/plugins/fluentform/vendor/composer/../../app/Modules/Widgets/SidebarWidgets.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/vendor/composer/ClassLoader.php on line 576
+[04-Oct-2023 20:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "FluentForm\App\Modules\Widgets\SidebarWidgets" not found in /var/www/web/wp/wp-includes/class-wp-widget-factory.php:62
+Stack trace:
+#0 /var/www/web/wp/wp-includes/widgets.php(115): WP_Widget_Factory->register('FluentForm\\App\\...')
+#1 /var/www/web/app/plugins/fluentform/app/Hooks/actions.php(745): register_widget('FluentForm\\App\\...')
+#2 /var/www/web/wp/wp-includes/class-wp-hook.php(310): FluentForm\Framework\Foundation\Application->{closure}('')
+#3 /var/www/web/wp/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/web/wp/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/web/wp/wp-includes/widgets.php(1858): do_action('widgets_init')
+#6 /var/www/web/wp/wp-includes/class-wp-hook.php(310): wp_widgets_init('')
+#7 /var/www/web/wp/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#8 /var/www/web/wp/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#9 /var/www/web/wp/wp-settings.php(632): do_action('init')
+#10 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#11 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#12 /var/www/web/wp/wp-admin/admin-ajax.php(22): require_once('/var/www/web/wp...')
+#13 {main}
+  thrown in /var/www/web/wp/wp-includes/class-wp-widget-factory.php on line 62
+[05-Oct-2023 09:36:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/web/app/plugins/kadence-pro/dist/dashboard/class-kadence-pro-dashboard.php on line 443
+[05-Oct-2023 09:36:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/web/app/plugins/kadence-pro/dist/dashboard/class-kadence-pro-dashboard.php on line 444

@@ -15,10 +15,10 @@ require 'vendor/authwit/deployer-wp-recipes/recipes/uploads.php';
 //require 'vendor/vlucas/phpdotenv/src/Dotenv.php';
 
 // Project name
-set('application', 'counseal.com');
+set('application', 'ulem.org');
 
 // Project repository
-set('repository', 'git@github.com:authwit/site-counseal.com.git');
+set('repository', 'git@github.com:theulem/website.git');
 
 // [Optional] Allocate tty for git clone. Default value is false.
 set('git_tty', false);

@@ -1,0 +1,7 @@
+{
+  "name": "authwit/kadence-blocks-pro",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^2"
+  }
+}

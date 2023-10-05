@@ -1,6 +1,6 @@
 {
   "name": "theulem/website",
-  "description": "Public website",
+  "description": "ULEM  Website",
   "homepage": "https://ulem.org",
   "authors": [
     {
@@ -17,19 +17,67 @@
         "wpackagist-plugin/*",
         "wpackagist-theme/*"
       ]
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:authwit/wp-plugin-flying-press.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:authwit/wp-plugin-seo-by-rank-math-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:authwit/wp-plugin-fluentformpro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:authwit/wp-plugin-advanced-custom-fields-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:authwit/wp-plugin-learndash.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:authwit/wp-plugin-kadence-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:authwit/wp-plugin-kadence-blocks-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:authwit/wp-plugin-advanced-custom-fields-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:authwit/deployer-wp-recipes.git"
     }
   ],
   "require": {
-    "php": ">=8.0",
+    "authwit/flying-press": "*",
+    "authwit/advanced-custom-fields-pro": "*",
+    "authwit/fluentformpro": "*",
+    "authwit/kadence-blocks-pro": "*",
+    "authwit/kadence-pro": "*",
+    "authwit/seo-by-rank-math-pro": "*",
+    "authwit/deployer-wp-recipes": "*",
     "composer/installers": "^2.2",
-    "vlucas/phpdotenv": "^5.5",
     "oscarotero/env": "^2.1",
+    "php": ">=8.0",
     "roots/bedrock-autoloader": "^1.0",
     "roots/bedrock-disallow-indexing": "^2.0",
-    "roots/wordpress": "6.3.1",
+    "roots/wordpress": "^6",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
-    "wpackagist-theme/twentytwentythree": "^1.0"
+    "vlucas/phpdotenv": "^5.5",
+    "wpackagist-plugin/fluentform": "*",
+    "wpackagist-plugin/kadence-blocks": "*",
+    "wpackagist-plugin/kadence-starter-templates": "*",
+    "wpackagist-plugin/seo-by-rank-math": "*",
+    "wpackagist-plugin/url-shortify": "*",
+    "wpackagist-theme/kadence": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
@@ -41,6 +89,9 @@
     "allow-plugins": {
       "composer/installers": true,
       "roots/wordpress-core-installer": true
+    },
+    "github-oauth": {
+      "github.com": "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"
     }
   },
   "minimum-stability": "dev",

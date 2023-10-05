@@ -4,8 +4,191 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "785e52efd388f84ab0b922b0205e445c",
+    "content-hash": "aa040613f1f0733e78c5504e30bff69b",
     "packages": [
+        {
+            "name": "authwit/advanced-custom-fields-pro",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:authwit/wp-plugin-advanced-custom-fields-pro.git",
+                "reference": "8b2daacfbe8284c779a4d2f52029999bf922946a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/authwit/wp-plugin-advanced-custom-fields-pro/zipball/8b2daacfbe8284c779a4d2f52029999bf922946a",
+                "reference": "8b2daacfbe8284c779a4d2f52029999bf922946a",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^2"
+            },
+            "default-branch": true,
+            "type": "wordpress-plugin",
+            "support": {
+                "source": "https://github.com/authwit/wp-plugin-advanced-custom-fields-pro/tree/main",
+                "issues": "https://github.com/authwit/wp-plugin-advanced-custom-fields-pro/issues"
+            },
+            "time": "2023-10-04T20:00:55+00:00"
+        },
+        {
+            "name": "authwit/deployer-wp-recipes",
+            "version": "0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/authwit/deployer-wp-recipes.git",
+                "reference": "eb2a89e050d099680438b364073a2348943b9b74"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/authwit/deployer-wp-recipes/zipball/eb2a89e050d099680438b364073a2348943b9b74",
+                "reference": "eb2a89e050d099680438b364073a2348943b9b74",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6.0"
+            },
+            "type": "library",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "cstaelen",
+                    "email": "clement@ukhom.com"
+                }
+            ],
+            "description": "Wordpress deployer recipes",
+            "support": {
+                "source": "https://github.com/authwit/deployer-wp-recipes/tree/0.1.0"
+            },
+            "time": "2017-03-22T13:40:01+00:00"
+        },
+        {
+            "name": "authwit/fluentformpro",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:authwit/wp-plugin-fluentformpro.git",
+                "reference": "3789ff0b0a5b9cb5ca9ff206c41ac03368f149c7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/authwit/wp-plugin-fluentformpro/zipball/3789ff0b0a5b9cb5ca9ff206c41ac03368f149c7",
+                "reference": "3789ff0b0a5b9cb5ca9ff206c41ac03368f149c7",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^2"
+            },
+            "default-branch": true,
+            "type": "wordpress-plugin",
+            "support": {
+                "source": "https://github.com/authwit/wp-plugin-fluentformpro/tree/main",
+                "issues": "https://github.com/authwit/wp-plugin-fluentformpro/issues"
+            },
+            "time": "2023-10-04T20:24:20+00:00"
+        },
+        {
+            "name": "authwit/flying-press",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:authwit/wp-plugin-flying-press.git",
+                "reference": "771bf843b545fa2a607425d337e9df5d8dddc28f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/authwit/wp-plugin-flying-press/zipball/771bf843b545fa2a607425d337e9df5d8dddc28f",
+                "reference": "771bf843b545fa2a607425d337e9df5d8dddc28f",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^2"
+            },
+            "default-branch": true,
+            "type": "wordpress-plugin",
+            "support": {
+                "source": "https://github.com/authwit/wp-plugin-flying-press/tree/main",
+                "issues": "https://github.com/authwit/wp-plugin-flying-press/issues"
+            },
+            "time": "2023-10-05T12:48:53+00:00"
+        },
+        {
+            "name": "authwit/kadence-blocks-pro",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:authwit/wp-plugin-kadence-blocks-pro.git",
+                "reference": "b0e9461e96be0fec6f54528b8ad181cac240ed48"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/authwit/wp-plugin-kadence-blocks-pro/zipball/b0e9461e96be0fec6f54528b8ad181cac240ed48",
+                "reference": "b0e9461e96be0fec6f54528b8ad181cac240ed48",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^2"
+            },
+            "default-branch": true,
+            "type": "wordpress-plugin",
+            "support": {
+                "source": "https://github.com/authwit/wp-plugin-kadence-blocks-pro/tree/main",
+                "issues": "https://github.com/authwit/wp-plugin-kadence-blocks-pro/issues"
+            },
+            "time": "2023-10-05T13:06:16+00:00"
+        },
+        {
+            "name": "authwit/kadence-pro",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:authwit/wp-plugin-kadence-pro.git",
+                "reference": "5cd67d6f2ec08bace31c06b02393580ab633d1b8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/authwit/wp-plugin-kadence-pro/zipball/5cd67d6f2ec08bace31c06b02393580ab633d1b8",
+                "reference": "5cd67d6f2ec08bace31c06b02393580ab633d1b8",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^2"
+            },
+            "default-branch": true,
+            "type": "wordpress-plugin",
+            "support": {
+                "source": "https://github.com/authwit/wp-plugin-kadence-pro/tree/main",
+                "issues": "https://github.com/authwit/wp-plugin-kadence-pro/issues"
+            },
+            "time": "2023-10-04T13:58:45+00:00"
+        },
+        {
+            "name": "authwit/seo-by-rank-math-pro",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:authwit/wp-plugin-seo-by-rank-math-pro.git",
+                "reference": "46375d11dd5a5b28d330279de418afc749c252c9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/authwit/wp-plugin-seo-by-rank-math-pro/zipball/46375d11dd5a5b28d330279de418afc749c252c9",
+                "reference": "46375d11dd5a5b28d330279de418afc749c252c9",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^2"
+            },
+            "default-branch": true,
+            "type": "wordpress-plugin",
+            "support": {
+                "source": "https://github.com/authwit/wp-plugin-seo-by-rank-math-pro/tree/main",
+                "issues": "https://github.com/authwit/wp-plugin-seo-by-rank-math-pro/issues"
+            },
+            "time": "2023-10-05T12:47:36+00:00"
+        },
         {
             "name": "composer/installers",
             "version": "v2.2.0",
@@ -1119,22 +1302,112 @@
             "time": "2022-10-16T01:01:54+00:00"
         },
         {
-            "name": "wpackagist-theme/twentytwentythree",
-            "version": "1.2",
+            "name": "wpackagist-plugin/fluentform",
+            "version": "5.0.9",
             "source": {
                 "type": "svn",
-                "url": "https://themes.svn.wordpress.org/twentytwentythree/",
-                "reference": "1.2"
+                "url": "https://plugins.svn.wordpress.org/fluentform/",
+                "reference": "tags/5.0.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentythree.1.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/fluentform.5.0.9.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/fluentform/"
+        },
+        {
+            "name": "wpackagist-plugin/kadence-blocks",
+            "version": "3.1.20",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/kadence-blocks/",
+                "reference": "tags/3.1.20"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/kadence-blocks.3.1.20.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/kadence-blocks/"
+        },
+        {
+            "name": "wpackagist-plugin/kadence-starter-templates",
+            "version": "1.2.21",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/kadence-starter-templates/",
+                "reference": "tags/1.2.21"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/kadence-starter-templates.1.2.21.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/kadence-starter-templates/"
+        },
+        {
+            "name": "wpackagist-plugin/seo-by-rank-math",
+            "version": "1.0.203",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/seo-by-rank-math/",
+                "reference": "tags/1.0.203"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/seo-by-rank-math.1.0.203.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/seo-by-rank-math/"
+        },
+        {
+            "name": "wpackagist-plugin/url-shortify",
+            "version": "1.7.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/url-shortify/",
+                "reference": "tags/1.7.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/url-shortify.1.7.8.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/url-shortify/"
+        },
+        {
+            "name": "wpackagist-theme/kadence",
+            "version": "1.1.47",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/kadence/",
+                "reference": "1.1.47"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/kadence.1.1.47.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-theme",
-            "homepage": "https://wordpress.org/themes/twentytwentythree/"
+            "homepage": "https://wordpress.org/themes/kadence/"
         }
     ],
     "packages-dev": [
@@ -1144,12 +1417,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "0bfb1ccd473497eb36309cf553664eda6d3f02db"
+                "reference": "bfb87b7907dac95bb71d398ff3e225d5362f768e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0bfb1ccd473497eb36309cf553664eda6d3f02db",
-                "reference": "0bfb1ccd473497eb36309cf553664eda6d3f02db",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/bfb87b7907dac95bb71d398ff3e225d5362f768e",
+                "reference": "bfb87b7907dac95bb71d398ff3e225d5362f768e",
                 "shasum": ""
             },
             "conflict": {
@@ -1366,7 +1639,7 @@
                 "illuminate/encryption": ">=4,<=4.0.11|>=4.1,<=4.1.31|>=4.2,<=4.2.22|>=5,<=5.0.35|>=5.1,<=5.1.46|>=5.2,<=5.2.45|>=5.3,<=5.3.31|>=5.4,<=5.4.36|>=5.5,<5.5.40|>=5.6,<5.6.15",
                 "illuminate/view": "<6.20.42|>=7,<7.30.6|>=8,<8.75",
                 "impresscms/impresscms": "<=1.4.5",
-                "in2code/femanager": "<5.5.3|>=6,<6.3.4|>=7,<7.1",
+                "in2code/femanager": "<5.5.3|>=6,<6.3.4|>=7,<7.2.2",
                 "in2code/ipandlanguageredirect": "<5.1.2",
                 "in2code/lux": "<17.6.1|>=18,<24.0.2",
                 "innologi/typo3-appointments": "<2.0.6",
@@ -1817,7 +2090,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-10-03T22:04:17+00:00"
+            "time": "2023-10-04T11:04:46+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
