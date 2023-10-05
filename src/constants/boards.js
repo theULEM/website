@@ -9,11 +9,7 @@ export const executiveCommittee = [
         job: "Secretary of the ULEM Board, Attorney",
         organization: ""
     },
-    {
-        name: "Peter Dulac",
-        job: "Chair of the ULEM Program Committee, Vice President/General Manager",
-        organization: "Enterprise Holdings-Boston Group"
-    },
+
     {
         name: "Anthony Gaymes",
         job: "Treasurer of the Board, Vice President of Commercial Lending",
@@ -64,9 +60,9 @@ export const membersOfTheBoard = [
         "organization": "Boston Human Rights Commission"
     },
     {
-        "name": "John Dozier",
-        "job": "Institute Community and Equity Officer (ICEO)",
-        "organization": "MIT"
+        name: "Peter Dulac",
+        job: "Vice President/General Manager",
+        organization: "Enterprise Holdings-Boston Group"
     },
     {
         "name": "Nikolin Gace",
