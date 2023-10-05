@@ -59,10 +59,6 @@ export default class Staff extends Component {
                   <td>Workforce Development Coordinator/Data Specialist</td>
                 </tr>
                 <tr>
-                  <td>Jacqueline Johnson</td>
-                  <td>Workforce Development Instructor, DigiUL</td>
-                </tr>
-                <tr>
                   <td>Robert LaCourt</td>
                   <td>Workforce Development, Outreach Worker</td>
                 </tr>
