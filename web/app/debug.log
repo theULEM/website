@@ -74,3 +74,333 @@ Stack trace:
   thrown in /var/www/web/wp/wp-includes/class-wp-widget-factory.php on line 62
 [05-Oct-2023 09:36:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/web/app/plugins/kadence-pro/dist/dashboard/class-kadence-pro-dashboard.php on line 443
 [05-Oct-2023 09:36:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/web/app/plugins/kadence-pro/dist/dashboard/class-kadence-pro-dashboard.php on line 444
+[05-Oct-2023 13:36:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/upload.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/index.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:15
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(39): {closure}('Meow_WPMC_Core')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-admin/admin.php(34): require_once('/var/www/web/wp...')
+#6 /var/www/web/wp/wp-admin/plugins.php(10): require_once('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 15
+[05-Oct-2023 13:36:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:36:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "WPMC_PATH" in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php:18
+Stack trace:
+#0 /var/www/web/app/plugins/media-cleaner-pro/classes/init.php(37): {closure}('MeowCommon_Help...')
+#1 /var/www/web/app/plugins/database-cleaner-pro/database-cleaner-pro.php(27): require_once('/var/www/web/ap...')
+#2 /var/www/web/wp/wp-settings.php(462): include_once('/var/www/web/ap...')
+#3 /var/www/web/wp-config.php(9): require_once('/var/www/web/wp...')
+#4 /var/www/web/wp/wp-load.php(55): require_once('/var/www/web/wp...')
+#5 /var/www/web/wp/wp-blog-header.php(13): require_once('/var/www/web/wp...')
+#6 /var/www/web/index.php(6): require('/var/www/web/wp...')
+#7 {main}
+  thrown in /var/www/web/app/plugins/media-cleaner-pro/classes/init.php on line 18
+[05-Oct-2023 13:48:23 UTC] WordPress database error Duplicate entry 'betterlinks_db_alter_options' for key 'option_name' for query INSERT INTO wp_options ( option_name, option_value, autoload ) VALUES ( 'betterlinks_db_alter_options', 'a:1:{s:22:\"added_uncloaked_column\";b:1;}', 'no' ) made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, BetterLinks->do_the_works_if_failed_during_activation, BetterLinks\Installer->fix_betterlinks_db, BetterLinks\Helper::btl_update_option
+[05-Oct-2023 13:48:23 UTC] WordPress database error Duplicate entry 'betterlinks_db_alter_options' for key 'option_name' for query INSERT INTO wp_options ( option_name, option_value, autoload ) VALUES ( 'betterlinks_db_alter_options', 'a:1:{s:21:\"added_favorite_column\";b:1;}', 'no' ) made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, BetterLinks->do_the_works_if_failed_during_activation, BetterLinks\Installer->fix_betterlinks_db, BetterLinks\Helper::btl_update_option

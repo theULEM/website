@@ -48,11 +48,11 @@ inventory('hosts.yml');
 //// Tasks
 set('wp-recipes', [
     'theme_dir' => '/web/app/themes',
-    'theme_name' => 'astra',
+    'theme_name' => 'kadence',
     'shared_dir' => '{{ deploy_path }}/shared',
-    'local_wp_url' => 'http://csl.local',
-    'remote_wp_url' => 'https://counseal.com',
-    'remote_url' => 'https://counseal.com',
+    'local_wp_url' => 'http://ulem.local',
+    'remote_wp_url' => 'https://go.ulem.org',
+    'remote_url' => 'https://go.ulem.org',
     'clean_after_deploy' => [
         'deploy.php',
         '.gitignore',

@@ -20,6 +20,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:authwit/wp-plugin-betterlinks-pro.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:authwit/wp-plugin-flying-press.git"
     },
     {
@@ -33,10 +37,6 @@
     {
       "type": "vcs",
       "url": "git@github.com:authwit/wp-plugin-advanced-custom-fields-pro.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@github.com:authwit/wp-plugin-learndash.git"
     },
     {
       "type": "vcs",
@@ -56,6 +56,7 @@
     }
   ],
   "require": {
+    "authwit/betterlinks-pro": "*",
     "authwit/flying-press": "*",
     "authwit/advanced-custom-fields-pro": "*",
     "authwit/fluentformpro": "*",
@@ -72,11 +73,11 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "vlucas/phpdotenv": "^5.5",
+    "wpackagist-plugin/betterlinks": "*",
     "wpackagist-plugin/fluentform": "*",
     "wpackagist-plugin/kadence-blocks": "*",
     "wpackagist-plugin/kadence-starter-templates": "*",
     "wpackagist-plugin/seo-by-rank-math": "*",
-    "wpackagist-plugin/url-shortify": "*",
     "wpackagist-theme/kadence": "*"
   },
   "require-dev": {
