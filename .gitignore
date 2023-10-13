@@ -29,3 +29,7 @@ wp-cli.local.yml
 #IDE
 .idea
 .data
+
+#Misc
+build
+node_modules
