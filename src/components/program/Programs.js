@@ -122,27 +122,8 @@ export default class Programs extends Component {
                     today!</strong> <strong>Don’t Wait- Apply by Clicking Here:</strong> <a
                     href="https://interise.org/nextstage-mbe-form-submitted/" target="_blank"
                     className="url">https://interise.org/nextstage-mbe-form-submitted/</a></p>
-            <ul>
-                <li><p><strong>SouthCoast Cohort Application Deadline Dates</strong></p>
-                    <ul>
-                        <li> - Thursday September 7th at 12:00 noon est.</li>
 
-                    </ul>
-                </li>
-                <br/>
-                <li><p><strong>Boston Cohort Application Deadline Dates</strong></p>
-                    <ul>
-                        <li>- Monday October 9th at 12:00 noon est.</li>
 
-                    </ul>
-                </li>
-                <br/>
-                <li><p><strong>Brockton Cohort Application Deadline</strong></p>
-                    <ul>
-                        <li>- Tuesday October 10th at 12:00 noon est.</li>
-                    </ul>
-                </li>
-            </ul>
             <p>Since 2004 the Interise award winning curriculum has over 9,000 graduates, over 500 in the Commonwealth
                 of Massachusetts that employ over 150,000 nationally with <strong>an average revenue increase of
                     $500k</strong> per business on average, and 97% of alumni businesses would recommend the program to
