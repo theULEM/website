@@ -236,11 +236,7 @@ export const advisoryCouncil = [
         "job": "President",
         "organization": "SkyCom Courier"
     },
-    {
-        "name": "Donnie Bedney III",
-        "job": "Operating Partner",
-        "organization": "ScaleCo"
-    },
+
     {
         "name": "Larry Dunham",
         "job": "Director of Diversity and Multicultural Affairs",
