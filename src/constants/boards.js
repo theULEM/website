@@ -231,30 +231,5 @@ export const advisoryCouncil = [
         "name": "Lisa Timberlake",
         "job": "Media Relations",
         "organization": "City of Boston"
-    }, {
-        "name": "Scott Baker",
-        "job": "President",
-        "organization": "SkyCom Courier"
-    },
-
-    {
-        "name": "Larry Dunham",
-        "job": "Director of Diversity and Multicultural Affairs",
-        "organization": "Boston University/Dental School"
-    },
-    {
-        "name": "David Gibbons",
-        "job": "Executive Director",
-        "organization": "Massachusetts Convention Center Authority (MCCA)"
-    },
-    {
-        "name": "Dorothea Jones",
-        "job": "President of The GUILD",
-        "organization": "The Urban League of Eastern MA"
-    },
-    {
-        "name": "Lisa Timberlake",
-        "job": "Media Relations",
-        "organization": "City of Boston"
     }
 ];
