@@ -19,7 +19,7 @@ export default class Staff extends Component {
                 </tr>
                 <tr>
                   <td>Jacquie George</td>
-                  <td>Vice President of Finance</td>pter
+                  <td>Vice President of Finance</td>
                 </tr>
                 <tr>
                   <td>William Watkins</td>
