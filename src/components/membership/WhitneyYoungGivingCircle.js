@@ -1,15 +1,15 @@
 import React, {Component} from "react";
 import MembershipCard from "./MembershipCard";
-import member from "../../img/whitney-young.jpg";
+import member from "../../img/whitney-young.png";
 
 export default class WhitneyYoungGivingCircle extends Component {
     render() {
         const handleFormAction = () => {
-            return window.location.href = '#'
+            return window.location.href = 'https://forms.office.com/r/Xxdzgr19C5'
         };
 
         return (<div className={'text-center mt-6'}>
-            <img src={member} alt="membership" className="img-thumbnail "/>
+            <img src={member} alt="membership" className="img-thumbnail " style={{ height: "450px"}}/>
             <div className="container">
                 <div className={'text-center'}>
                     <h2 className="pt-3 ulem-text-primary">Whitney M. Young Giving Circle</h2>

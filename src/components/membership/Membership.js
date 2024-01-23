@@ -31,6 +31,8 @@ export default class Membership extends Component {
                 INFRASTRUCTURE OF THE URBAN LEAGUE AND ALL OF ITS PROGRAMS.
               </strong>
             </p>
+
+            <a href="/giving-circle" target={'_self'}>Click here to learn how to do more through the Whitney M. Young Giving Circle.</a>
           </div>
           <div className="row membership-1st-row">
             <div className="col-md-4">

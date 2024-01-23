@@ -194,6 +194,13 @@ export default class Navbar extends Component {
                                     >
                                         Donate Now
                                     </a>
+                                    <Link
+                                        className="nav-link text-dark"
+                                        to="/giving-circle"
+                                        onClick={this.collapse}
+                                    >
+                                        Whitney M. Young Giving Circle
+                                    </Link>
                                 </div>
                             </div>
                         </li>
