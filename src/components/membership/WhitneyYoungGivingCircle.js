@@ -30,7 +30,7 @@ export default class WhitneyYoungGivingCircle extends Component {
                         furthers our mission of empowering communities and changing lives
                     </p>
 
-                    <button className={'btn btn-success'} onClick={() => handleFormAction()}>Sign up to learn more
+                    <button className={'btn btn-success  btn-lg'} onClick={() => handleFormAction()}>Sign up to learn more
                         here
                     </button>
                 </div>
