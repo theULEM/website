@@ -21,6 +21,8 @@ export default class Membership extends Component {
             You can become a member by making a secure online payment through
             Square.
           </p>
+
+          <strong>EACH MEMBERSHIP LEVEL SUPPORTS THE BUILDING OF RESERVE FUNDS AND INFRASTRUCTURE OF THE URBAN LEAGUE AND ALL OF ITS PROGRAMS.</strong>
           <div className="text-center">
             <h3 className="ulem-text-primary pt-5">MEMBERSHIP LEVELS</h3>
             <p>
@@ -33,99 +35,56 @@ export default class Membership extends Component {
           <div className="row membership-1st-row">
             <div className="col-md-4">
               <MembershipCard
-                //header="Platinum"
-                title="Chairman's Club"
-                price="1,000"
-                year="/YR"
-                li1="&bull; Listing on website"
-                li2="&bull; Certificate of Membership"
-                li3="&bull; Annual Meeting and event program listing"
-                //li4="&bull; ULEM commemorative gift"
-                li4="&bull; NUL lapel pin"
-                li5="&bull; Enterprise Rent-A-Car Discount"
-                li6="&bull; Advance Event notices"
-                li7="&bull; ULEM newsletter"
-                li8="&bull; Membership Card"
-                purchase="https://theulem.square.site/product/platinum-chairman-s-club/24?cs=true"
+                  //header="Gold"
+                  title="Corporate Membership"
+                  price="500"
+                  year="/YR"
+                  li1="&bull; Listing on website"
+                  li2="&bull; Certificate of Membership"
+                  li3="&bull; Annual Meeting and event program listing"
+                  li4="&bull; ULEM commemorative gift"
+                  li5="&bull; NUL lapel pin"
+                  li6="&bull; Event Discounts"
+                  li7="&bull; Membership Card"
+                  li8="&bull; Enterprise Rent-A-Car Discount"
+                  // li5="&bull; Advance Event notices"
+                  // li6="&bull; ULEM newsletter"
+                  // li7="&bull; Membership Card"
+                  purchase="https://theulem.square.site/product/gold-president-club/28?cs=true"
               />
             </div>
             <div className="col-md-4">
               <MembershipCard
-                //header="Gold"
-                title="President Club"
-                price="500"
-                year="/YR"
-                li1="&bull; Listing on website"
-                li2="&bull; Certificate of Membership"
-                //li3="&bull; Annual Meeting and event program listing"
-                //li4="&bull; ULEM commemorative gift"
-                li3="&bull; NUL lapel pin"
-                li4="&bull; Enterprise Rent-A-Car Discount"
-                li5="&bull; Advance Event notices"
-                li6="&bull; ULEM newsletter"
-                li7="&bull; Membership Card"
-                purchase="https://theulem.square.site/product/gold-president-club/28?cs=true"
+                  //header="Silver"
+                  title="Church & Small Business Membership"
+                  price="350"
+                  year="/YR"
+                  li1="&bull; Name ULEM as a partner in bulletins and company publications"
+                  li2="&bull; Event Discounts"
+                  // li2="&bull; Advance Event notices"
+                  li3="&bull; ULEM newsletter"
+                  purchase="https://theulem.square.site/product/silver-church-small-business-membership/29?cs=true"
               />
             </div>
             <div className="col-md-4">
               <MembershipCard
-                //header="Silver"
-                title="Church & Small Business Membership"
-                price="350"
-                year="/YR"
-                li1="&bull; Name ULEM as a partner in bulletins and company publications"
-                li2="&bull; Advance Event notices"
-                li3="&bull; ULEM newsletter"
-                purchase="https://theulem.square.site/product/silver-church-small-business-membership/29?cs=true"
+                  //header="Bronze"
+                  title="Heritage Club"
+                  price="75"
+                  year="/YR"
+                  //li1="&bull; Certificate of Membership"
+                  //li2="&bull; Member listing"
+                  //li3="&bull; ULEM commemorative gift"
+                  li1="&bull; Membership card"
+                  li2="&bull; Member listing"
+                  li3="&bull; UL ink pen and magnet"
+                  li4="&bull; ULEM newsletter"
+                  li5="&bull; Enterprise Rent-A-Car Discount"
+                  purchase="https://theulem.square.site/membership"
               />
             </div>
           </div>
-          <div className="row membership-2nd-row">
-            <div className="col-md-4">
-              <MembershipCard
-                //header="Bronze"
-                title="Heritage Club"
-                price="100"
-                year="/YR"
-                //li1="&bull; Certificate of Membership"
-                //li2="&bull; Member listing"
-                //li3="&bull; ULEM commemorative gift"
-                li1="&bull; NUL lapel pin"
-                li2="&bull; Enterprise Rent-A-Car Discount"
-                li3="&bull; Advance Event notices"
-                li4="&bull; ULEM newsletter"
-                li5="&bull; Membership Card"
-                purchase="https://theulem.square.site/product/bronze-heritage-club/30?cs=true"
-              />
-            </div>
-            <div className="col-md-4">
-              <MembershipCard
-                //header="Basic"
-                title="Legacy"
-                price="50"
-                year="/YR"
-                li1="&bull; NUL lapel pin"
-                li2="&bull; Enterprise Rent-A-Car Discount"
-                li3="&bull; Membership card"
-                //li2="&bull; Member listing"
-                //li3="&bull; UL ink pen and magnet"
-                li4="&bull; ULEM newsletter"
-                purchase="https://theulem.square.site/product/basic-legacy/31?cs=true"
-              />
-            </div>
-            <div className="col-md-4">
-              <MembershipCard
-                //header="Students & Senior"
-                title="STUDENTS & SENIOR MEMBER 60+"
-                price="30"
-                year="/YR"
-                li1="&bull; Membership card"
-                //li2="&bull; Member listing"
-                li2="&bull; ULEM newsletter"
-                purchase="https://theulem.square.site/product/student-senior-member-60-/32?cs=true"
-              />
-            </div>
-          </div>
+
         </div>
       </div>
     );
