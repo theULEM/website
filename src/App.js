@@ -31,6 +31,7 @@ import Thank from "./components/layout/Thank";
 import Login from "./components/auth/Login";
 import Admin from "./components/auth/Admin";
 import Marathon from "./components/marathon/Marathon";
+import WhitneyYoungGivingCircle from "./components/membership/WhitneyYoungGivingCircle";
 import Membership from "./components/membership/Membership";
 import FaqMembership from "./components/membership/FaqMembership";
 import Donation from "./components/membership/Donation";
@@ -90,6 +91,7 @@ class App extends Component {
                             path={"/grant-writer"}
                             component={GrantWriterPage}/>
                         <Route exact path="/membership" component={Membership}/>
+                        <Route exact path="/giving-circle" component={WhitneyYoungGivingCircle}/>
                         <Route exact path="/faqmembership" component={FaqMembership}/>
                         <Route exact path="/donation" component={Donation}/>
                         <Route exact path="/payment" component={Payment}/>
