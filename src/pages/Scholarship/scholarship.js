@@ -16,7 +16,7 @@ const scholarship = () => {
                 Guild Scholarship Fund. Awards will be made annually, each June.</p>
             <p>For the <b>2023-2024</b> school year, we will select two graduating high school students
                 who seek to further their education, advancing to an accredited college, university, or technical
-                /trade school of their choice. The minimum award per student is <b>$500</b>.
+                /trade school of their choice. The award per student is <b>$500</b>.
             </p>
             <p>As part of the process, the students are required to complete the ULEM Guild application and
                 provide all relevant information requested on the form. Once the application has been
