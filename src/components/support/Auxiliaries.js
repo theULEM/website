@@ -27,7 +27,7 @@ export default class Auxiliaries extends Component {
             Guild operates under the auspices of both the Urban League of
             Eastern Massachusetts and the National Council of Urban League
             Guilds. For more information, send an email to{" "}
-            <a href="mailto:guildpresident@ulem.org">guildpresident@ulem.org</a>
+            <a href="mailto:guildmembership@ulem.org">guildmembership@ulem.org</a>
             .
           </p>
         </section>
