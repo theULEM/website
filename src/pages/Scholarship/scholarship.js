@@ -59,7 +59,7 @@ const scholarship = () => {
                 League Guild of Eastern Massachusetts Scholarship Committee,
                 88 Warren Street, Roxbury, MA 02119, OR submitted electronically to
                 {" "}<a href="mailto: ULEMguildscholarship@ulem.org">ULEMguildscholarship@ulem.org</a>
-                {" "}by <b>June 4, 2024</b>.
+                {" "}by <b>April 30th 2024</b>.
                 Applications postmarked or received after that date will not be accepted.
             </p>
             <br></br>
