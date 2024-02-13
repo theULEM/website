@@ -1,18 +1,16 @@
 export const executiveCommittee = [
-
     {
         name: "Linda Champion",
         job: "Secretary of the ULEM Board, Attorney",
         organization: "Murphy Hesse Toomey & Lehane, LLP"
     },
-
     {
         name: "Anthony Gaymes",
         job: "Treasurer of the Board, Vice President of Commercial Lending",
         organization: "TD Bank"
     },
     {
-        name: "Jeffrey L. Hirsch",
+        name: "Jeffrey Hirsch",
         job: "Chair of the Personnel and Issue & Advocacy Committees, Attorney",
         organization: "Hirsch Roberts Weinstein LLP"
     },
@@ -21,7 +19,6 @@ export const executiveCommittee = [
         job: "Chair of the ULEM Nominating Committee, Retired",
         organization: "Fidelity Investments"
     },
-
     {
         name: "Lori Nelson",
         job: "Chair of the Strategic Planning Committee, Chief Resilience Officer",
@@ -38,11 +35,11 @@ export const executiveCommittee = [
         organization: "Deloitte Consulting"
     },
     {
-        "name": "Erik White",
-        "job": "Sr. Manager of Forensic & Integrity Services",
-        "organization": "EY"
+        name: "Erik White",
+        job: "Sr. Manager of Forensic & Integrity Services",
+        organization: "EY"
     }
-];
+]
 
 export const membersOfTheBoard = [
     {
@@ -59,6 +56,16 @@ export const membersOfTheBoard = [
         name: "Peter Dulac",
         job: "Vice President/General Manager",
         organization: "Enterprise Holdings-Boston Group"
+    },
+    {
+        "name": "Donald Felix",
+        "job": "Senior Financial Services Executive,",
+        "organization": "JP Morgan Chase Consumer Banking"
+    },
+    {
+        "name": "Marie St. Fleur",
+        "job": "Principal,",
+        "organization": "St. Fleur Communications"
     },
     {
         "name": "Nikolin Gace",
@@ -89,29 +96,24 @@ export const membersOfTheBoard = [
         "name": "Jacquetta Van Zandt",
         "job": "",
         "organization": "The Partnership, Inc"
-    },
-    {
-        "name": "Donald Felix",
-        "job": "Senior Financial Services Executive,",
-        "organization": "JP Morgan Chase Consumer Banking"
-    },
-    {
-        "name": "Marie St. Fleur",
-        "job": "Principal,",
-        "organization": "St. Fleur Communications"
     }
 ];
 
 export const boardChairsEmeritus = [
     {
-        "name": "Samuel J. Gerson",
-        "job": "Chairman and Chief Executive",
-        "organization": "Filene's Basement (Deceased)"
-    },
-    {
         "name": "Hon. Joyce London Alexander",
         "job": "Chief U.S. Magistrate Judge",
         "organization": "United States District Courthouse"
+    },
+    {
+        name: "Joseph D. Feaster Jr.",
+        job: "Of Counsel,",
+        organization: "McKenzie & Associates, P.C."
+    },
+    {
+        "name": "Samuel J. Gerson",
+        "job": "Chairman and Chief Executive",
+        "organization": "Filene's Basement (Deceased)"
     },
     {
         "name": "Andrea Kershaw",
@@ -129,11 +131,6 @@ export const boardChairsEmeritus = [
         "organization": "Seyfarth Shaw"
     },
     {
-        "name": "George A. Russell Jr.",
-        "job": "Executive Vice President, Retired",
-        "organization": "State Street Corporation"
-    },
-    {
         "name": "Richard Taylor",
         "job": "Proprietor",
         "organization": "Taylor Smith Properties"
@@ -144,9 +141,9 @@ export const boardChairsEmeritus = [
         organization: "Boston College"
     },
     {
-        name: "Joseph D. Feaster Jr.",
-        job: "Of Counsel,",
-        organization: "McKenzie & Associates, P.C."
+        "name": "George A. Russell Jr.",
+        "job": "Executive Vice President, Retired",
+        "organization": "State Street Corporation"
     }
 ];
 
@@ -182,6 +179,11 @@ export const boardEmeritus = [
         "organization": "Comcast - Greater Boston Area"
     },
     {
+        "name": "Marian A. Green-Robinson",
+        "job": "Vice President & Branch Manager, Stoughton Office",
+        "organization": "Eastern Bank"
+    },
+    {
         "name": "Johnny Green Jr.",
         "job": "VP of News Services",
         "organization": "CBS News"
@@ -199,11 +201,6 @@ export const boardEmeritus = [
         name: "Malik A. Smith",
         job: "First Vice President",
         organization: "Private Wealth Advisor, Commons Capital Advisors"
-    },
-    {
-        "name": "Marian A. Green-Robinson",
-        "job": "Vice President & Branch Manager, Stoughton Office",
-        "organization": "Eastern Bank"
     }
 ];
 
