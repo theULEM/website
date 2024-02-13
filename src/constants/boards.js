@@ -1,13 +1,9 @@
 export const executiveCommittee = [
-    {
-        name: "Joseph D. Feaster Jr.",
-        job: "Chairman of the ULEM Board, Of Counsel",
-        organization: "McKenzie & Associates, P.C."
-    },
+
     {
         name: "Linda Champion",
         job: "Secretary of the ULEM Board, Attorney",
-        organization: ""
+        organization: "Murphy Hesse Toomey & Lehane, LLP"
     },
 
     {
@@ -32,9 +28,9 @@ export const executiveCommittee = [
         organization: "City of Boston"
     },
     {
-        name: "Deloris Pettis",
-        job: "Vice Chairwoman, Executive Director in the Office of Internal Audit",
-        organization: "Boston College"
+        name: "Mark Walker",
+        job: "Vice Chairman of the Board and Chair of the ULEM Building Committee, Credit Delivery Group Manager/Senior Vice President",
+        organization: "Eastern Bank"
     },
     {
         name: "Prasad Thottempudi",
@@ -42,9 +38,9 @@ export const executiveCommittee = [
         organization: "Deloitte Consulting"
     },
     {
-        name: "Mark Walker",
-        job: "Vice Chairman of the Board, Credit Delivery Group Manager/Senior Vice President",
-        organization: "Eastern Bank"
+        "name": "Erik White",
+        "job": "Sr. Manager of Forensic & Integrity Services",
+        "organization": "EY"
     }
 ];
 
@@ -66,18 +62,8 @@ export const membersOfTheBoard = [
     },
     {
         "name": "Nikolin Gace",
-        "job": "Vice President/Business Banking Market Manager",
-        "organization": "Citizens Bank "
-    },
-    {
-        name: "Nikhil Goray",
-        job: "Principal (Partner)",
-        organization: "Deloitte Consulting"
-    },
-    {
-        "name": "Marian A. Green-Robinson",
-        "job": "Vice President & Branch Manager, Stoughton Office",
-        "organization": "Eastern Bank"
+        "job": "",
+        "organization": ""
     },
     {
         "name": "Dr. Aisha E. Miller",
@@ -95,24 +81,24 @@ export const membersOfTheBoard = [
         "organization": "Share our Strength"
     },
     {
-        name: "Malik A. Smith",
-        job: "First Vice President",
-        organization: "Private Wealth Advisor, Commons Capital Advisors"
-    },
-    {
         "name": "Prasad Thottempudi",
         "job": "Managing Director",
         "organization": "Deloitte Consulting"
     },
     {
         "name": "Jacquetta Van Zandt",
-        "job": "Interim Pesident of YPN, Vice President of Engagement",
+        "job": "",
         "organization": "The Partnership, Inc"
     },
     {
-        "name": "Erik White",
-        "job": "Sr. Manager of Forensic & Integrity Services",
-        "organization": "EY"
+        "name": "Donald Felix",
+        "job": "General Manager,",
+        "organization": "JP Morgan Chase Consumer Banking"
+    },
+    {
+        "name": "Marie St. Fleur",
+        "job": "Principal,",
+        "organization": "St. Fleur Communications"
     }
 ];
 
@@ -151,6 +137,16 @@ export const boardChairsEmeritus = [
         "name": "Richard Taylor",
         "job": "Proprietor",
         "organization": "Taylor Smith Properties"
+    },
+    {
+        name: "Deloris Pettis",
+        job: "Vice Chairwoman, Executive Director in the Office of Internal Audit",
+        organization: "Boston College"
+    },
+    {
+        name: "Joseph D. Feaster Jr.",
+        job: "Of Counsel,",
+        organization: "McKenzie & Associates, P.C."
     }
 ];
 
@@ -198,6 +194,16 @@ export const boardEmeritus = [
         "name": "Ronia Stewart",
         "job": "President & CEO",
         "organization": "Garden of Eden & Associates, Inc."
+    },
+    {
+        name: "Malik A. Smith",
+        job: "First Vice President",
+        organization: "Private Wealth Advisor, Commons Capital Advisors"
+    },
+    {
+        "name": "Marian A. Green-Robinson",
+        "job": "Vice President & Branch Manager, Stoughton Office",
+        "organization": "Eastern Bank"
     }
 ];
 
