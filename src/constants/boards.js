@@ -1,5 +1,10 @@
 export const executiveCommittee = [
     {
+        name: "Josh Kraft",
+        job: "Board Chair",
+        organization: "Jordan Boys and Girls Club of Chelsea"
+    },
+    {
         name: "Linda Champion",
         job: "Secretary of the ULEM Board, Attorney",
         organization: "Murphy Hesse Toomey & Lehane, LLP"
@@ -25,14 +30,14 @@ export const executiveCommittee = [
         organization: "City of Boston"
     },
     {
-        name: "Mark Walker",
-        job: "Vice Chairman of the Board and Chair of the ULEM Building Committee, Credit Delivery Group Manager/Senior Vice President",
-        organization: "Eastern Bank"
-    },
-    {
         name: "Prasad Thottempudi",
         job: "Chair of the ULEM Development Committee, Managing Director",
         organization: "Deloitte Consulting"
+    },
+    {
+        name: "Mark Walker",
+        job: "Vice Chairman of the Board and Chair of the ULEM Building Committee, Credit Delivery Group Manager/Senior Vice President",
+        organization: "Eastern Bank"
     },
     {
         name: "Erik White",
