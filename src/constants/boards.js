@@ -1,7 +1,7 @@
 export const executiveCommittee = [
     {
         name: "Josh Kraft",
-        job: "Board Chair",
+        job: "ULEM Board Chair, Board Chair",
         organization: "Jordan Boys and Girls Club of Chelsea"
     },
     {
@@ -11,7 +11,7 @@ export const executiveCommittee = [
     },
     {
         name: "Anthony Gaymes",
-        job: "Treasurer of the Board, Vice President of Commercial Lending",
+        job: "Treasurer of the ULEM Board, Vice President of Commercial Lending",
         organization: "TD Bank"
     },
     {
@@ -26,7 +26,7 @@ export const executiveCommittee = [
     },
     {
         name: "Lori Nelson",
-        job: "Chair of the Strategic Planning Committee, Chief Resilience Officer",
+        job: "Chair of the ULEM Strategic Planning Committee, Chief Resilience Officer",
         organization: "City of Boston"
     },
     {
@@ -36,13 +36,8 @@ export const executiveCommittee = [
     },
     {
         name: "Mark Walker",
-        job: "Vice Chairman of the Board and Chair of the ULEM Building Committee, Credit Delivery Group Manager/Senior Vice President",
+        job: "Vice Chair of the Board and Chair of the ULEM Building Committee, Credit Delivery Group Manager/Senior Vice President",
         organization: "Eastern Bank"
-    },
-    {
-        name: "Erik White",
-        job: "Sr. Manager of Forensic & Integrity Services",
-        organization: "EY"
     }
 ]
 
@@ -64,12 +59,12 @@ export const membersOfTheBoard = [
     },
     {
         "name": "Donald Felix",
-        "job": "Senior Financial Services Executive,",
+        "job": "Senior Financial Services Executive",
         "organization": "JP Morgan Chase Consumer Banking"
     },
     {
         "name": "Marie St. Fleur",
-        "job": "Principal,",
+        "job": "Principal",
         "organization": "St. Fleur Communications"
     },
     {
@@ -84,7 +79,7 @@ export const membersOfTheBoard = [
     },
     {
         "name": "Christopher Scranton",
-        "job": "Director of Nonprofit & Government Partnerships,",
+        "job": "Director of Nonprofit & Government Partnerships",
         "organization": "Jobcase"
     },
     {
@@ -98,8 +93,13 @@ export const membersOfTheBoard = [
         "organization": "Deloitte Consulting"
     },
     {
+        name: "Erik White",
+        job: "Sr. Manager of Forensic & Integrity Services",
+        organization: "EY"
+    },
+    {
         "name": "Jacquetta Van Zandt",
-        "job": "",
+        "job": "Vice President of Engagement",
         "organization": "The Partnership, Inc"
     }
 ];
@@ -112,7 +112,7 @@ export const boardChairsEmeritus = [
     },
     {
         name: "Joseph D. Feaster Jr.",
-        job: "Of Counsel,",
+        job: "Of Counsel",
         organization: "McKenzie & Associates, P.C."
     },
     {
@@ -139,11 +139,6 @@ export const boardChairsEmeritus = [
         "name": "Richard Taylor",
         "job": "Proprietor",
         "organization": "Taylor Smith Properties"
-    },
-    {
-        name: "Deloris Pettis",
-        job: "Vice Chairwoman, Executive Director in the Office of Internal Audit",
-        organization: "Boston College"
     },
     {
         "name": "George A. Russell Jr.",
@@ -197,7 +192,13 @@ export const boardEmeritus = [
         "name": "Dorothea Jones",
         "job": "ULEM Guild President, NCULG Guild Secretary",
         "organization": "National Urban League"
-    }, {
+    },
+    {
+        name: "Deloris Pettis",
+        job: "Vice Chairwoman, Executive Director in the Office of Internal Audit",
+        organization: "Boston College"
+    },
+    {
         "name": "Ronia Stewart",
         "job": "President & CEO",
         "organization": "Garden of Eden & Associates, Inc."
