@@ -16,7 +16,7 @@ export const executiveCommittee = [
     },
     {
         name: "Jeffrey Hirsch",
-        job: "Chair of the Personnel and Issue & Advocacy Committees, Attorney",
+        job: "Chair of the ULEM Personnel and Issue & Advocacy Committees, Attorney",
         organization: "Hirsch Roberts Weinstein LLP"
     },
     {
@@ -36,7 +36,7 @@ export const executiveCommittee = [
     },
     {
         name: "Mark Walker",
-        job: "Vice Chair of the Board and Chair of the ULEM Building Committee, Credit Delivery Group Manager/Senior Vice President",
+        job: "Vice Chair of the ULEM Board and Chair of the ULEM Building Committee, Credit Delivery Group Manager/Senior Vice President",
         organization: "Eastern Bank"
     }
 ]
