@@ -195,7 +195,7 @@ export const boardEmeritus = [
     },
     {
         name: "Deloris Pettis",
-        job: "Vice Chairwoman, Executive Director in the Office of Internal Audit",
+        job: "Executive Director in the Office of Internal Audit",
         organization: "Boston College"
     },
     {
@@ -228,8 +228,8 @@ export const advisoryCouncil = [
     },
     {
         "name": "David Gibbons",
-        "job": "Executive Director",
-        "organization": "Massachusetts Convention Center Authority (MCCA)"
+        "job": "",
+        "organization": ""
     },
     {
         "name": "Dorothea Jones",
