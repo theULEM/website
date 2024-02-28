@@ -261,13 +261,6 @@ export default class Navbar extends Component {
                                 >
                                     Corporate Partners
                                 </a>
-                                <Link to={'/media-specialist'}
-                                      className="nav-link text-dark"
-                                      target="_blank"
-                                      rel="noopener noreferrer"
-                                >
-                                    RFP: Media Specialist
-                                </Link>
                                 <Link to={'/grant-writer'}
                                       className="nav-link text-dark"
                                       target="_blank"

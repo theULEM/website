@@ -84,10 +84,6 @@ class App extends Component {
                         />
                         <Route
                             exact
-                            path={"/media-specialist"}
-                            component={MediaCommunicationPage}/>
-                        <Route
-                            exact
                             path={"/grant-writer"}
                             component={GrantWriterPage}/>
                         <Route exact path="/membership" component={Membership}/>
