@@ -59,8 +59,8 @@ export const membersOfTheBoard = [
     },
     {
         "name": "Donald Felix",
-        "job": "Senior Financial Services Executive",
-        "organization": "JP Morgan Chase Consumer Banking"
+        "job": "",
+        "organization": ""
     },
     {
         "name": "Marie St. Fleur",
