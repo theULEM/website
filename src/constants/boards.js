@@ -69,9 +69,9 @@ export const membersOfTheBoard = [
     },
     {
         "name": "Nikolin Gace",
-        "job": "",
-        "organization": ""
-    },
+        "job": " Vice President, Loan Officer",
+        "organization": "Rockland Trust Bank"
+},
     {
         "name": "Dr. Aisha E. Miller",
         "job": "Vice President of Permitting, Community and Corporate Engagement",
