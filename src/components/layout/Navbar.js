@@ -189,7 +189,7 @@ export default class Navbar extends Component {
                       Donate Now
                     </Link> */}
                                     <a className="nav-link text-dark"
-                                       href="https://squareup.com/store/theulem"
+                                       href="https://theulem.square.site/shop/whitney-m-young-jr-giving-circle/XYJDVO6FJ4ZCGADP6X5VVASE"
                                        onClick={this.collapse}
                                     >
                                         Donate Now
