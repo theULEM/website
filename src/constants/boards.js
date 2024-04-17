@@ -25,6 +25,11 @@ export const executiveCommittee = [
         organization: "Fidelity Investments"
     },
     {
+        "name": "Dr. Aisha E. Miller",
+        "job": "Vice President of Permitting, Community and Corporate Engagement",
+        "organization": "Related Beal"
+    },
+    {
         name: "Lori Nelson",
         job: "Chair of the ULEM Strategic Planning Committee, Chief Resilience Officer",
         organization: "City of Boston"
@@ -33,11 +38,6 @@ export const executiveCommittee = [
         name: "Prasad Thottempudi",
         job: "Chair of the ULEM Development Committee, Managing Director",
         organization: "Deloitte Consulting"
-    },
-    {
-        name: "Mark Walker",
-        job: "Vice Chair of the ULEM Board and Chair of the ULEM Building Committee, Credit Delivery Group Manager/Senior Vice President",
-        organization: "Eastern Bank"
     }
 ]
 
@@ -72,11 +72,7 @@ export const membersOfTheBoard = [
         "job": " Vice President, Loan Officer",
         "organization": "Rockland Trust Bank"
 },
-    {
-        "name": "Dr. Aisha E. Miller",
-        "job": "Vice President of Permitting, Community and Corporate Engagement",
-        "organization": "Related Beal"
-    },
+
     {
         "name": "Christopher Scranton",
         "job": "Director of Nonprofit & Government Partnerships",
@@ -207,6 +203,11 @@ export const boardEmeritus = [
         name: "Malik A. Smith",
         job: "First Vice President",
         organization: "Private Wealth Advisor, Commons Capital Advisors"
+    },
+    {
+        name: "Mark Walker",
+        job: "Credit Delivery Group Manager/Senior Vice President",
+        organization: "Eastern Bank"
     }
 ];
 
